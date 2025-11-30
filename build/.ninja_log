@@ -1,0 +1,23 @@
+# ninja log v6
+708	4325	7862029015460300	CMakeFiles/flowTrack.dir/src/server/EventServer.cpp.obj	b02e78c828955b52
+24	145	7862031016902000	flowTrack_autogen/timestamp	9497c7185c4809ee
+24	145	7862031016902000	flowTrack_autogen/mocs_compilation.cpp	9497c7185c4809ee
+24	145	7862031016902000	D:/workdir/FlowTrack/FlowTrackDesktop/build/flowTrack_autogen/timestamp	9497c7185c4809ee
+24	145	7862031016902000	D:/workdir/FlowTrack/FlowTrackDesktop/build/flowTrack_autogen/mocs_compilation.cpp	9497c7185c4809ee
+661	692	7862029015251673	D:/workdir/FlowTrack/FlowTrackDesktop/build/qrc_resources.cpp	be986e659e9dbf25
+661	692	7862029015251673	qrc_resources.cpp	be986e659e9dbf25
+23	95	7862031263010228	CMakeFiles/flowTrack.dir/qrc_resources.cpp.obj	e6447e26fec37eef
+692	4249	7862029015303110	CMakeFiles/flowTrack.dir/flowTrack_autogen/mocs_compilation.cpp.obj	85619e341c42cc97
+704	4663	7862029015411686	CMakeFiles/flowTrack.dir/src/db/Database.cpp.obj	42382f32104128f8
+146	2359	7862031018112294	CMakeFiles/flowTrack.dir/src/main.cpp.obj	42389c1ec4d30ac3
+700	4796	7862029015329053	CMakeFiles/flowTrack.dir/src/app/App.cpp.obj	45dbcbcafcd0204
+712	4971	7862029015486283	CMakeFiles/flowTrack.dir/src/processor/EventProcessor.cpp.obj	e7e5800b8d84aaf3
+95	419	7862031263773101	flowTrack.exe	bfdab16556459228
+42	181	7862032725404539	flowTrack_autogen/timestamp	9497c7185c4809ee
+42	181	7862032725404539	flowTrack_autogen/mocs_compilation.cpp	9497c7185c4809ee
+42	181	7862032725404539	D:/workdir/FlowTrack/FlowTrackDesktop/build/flowTrack_autogen/timestamp	9497c7185c4809ee
+42	181	7862032725404539	D:/workdir/FlowTrack/FlowTrackDesktop/build/flowTrack_autogen/mocs_compilation.cpp	9497c7185c4809ee
+182	212	7862032727070984	qrc_resources.cpp	be986e659e9dbf25
+182	212	7862032727070984	D:/workdir/FlowTrack/FlowTrackDesktop/build/qrc_resources.cpp	be986e659e9dbf25
+212	272	7862032727070984	CMakeFiles/flowTrack.dir/qrc_resources.cpp.obj	e6447e26fec37eef
+272	587	7862032727695400	flowTrack.exe	bfdab16556459228

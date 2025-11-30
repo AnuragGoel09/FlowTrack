@@ -1,2 +1,2 @@
 # FlowTrack
-Offline-first Taskboard for tracking development activity automatically
+Offline-first flowTrack for tracking development activity automatic

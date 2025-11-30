@@ -1,0 +1,23 @@
+#!/bin/sh
+# Minimal post-commit hook: send to local app or fallback to global queue
+
+eventDir="$HOME/.flowTrack-events"
+mkdir -p "$eventDir"
+
+msg=$(git log -1 --pretty=%B | sed 's/"/\\"/g')
+hash=$(git rev-parse HEAD)
+branch=$(git rev-parse --abbrev-ref HEAD)
+author=$(git --no-pager show -s --format='%an' $hash)
+timestamp=$(date "+%Y-%m-%d %H:%M:%S")
+
+json="{\"type\":\"commit\",\"hash\":\"$hash\",\"branch\":\"$branch\",\"message\":\"$msg\",\"author\":\"$author\",\"timestamp\":\"$timestamp\"}"
+
+# try post to local server
+curl -sS -X POST http://127.0.0.1:8989/event \
+  -H "Content-Type: application/json" \
+  -d "$json" --max-time 2 && exit 0
+
+# fallback: write to queue folder
+file="$eventDir/$timestamp-$hash.json"
+echo "$json" > "$file"
+exit 0
