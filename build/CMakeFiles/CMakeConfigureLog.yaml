@@ -3657,9 +3657,9 @@ events:
       - "C:/Qt/6.10.1/mingw_64/Program Files/CMake/bin/"
       - "C:/Qt/6.10.1/mingw_64/Program Files/CMake/sbin/"
       - "C:/Qt/6.10.1/mingw_64/Program Files/CMake/"
-      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/FlowTrack/bin/"
-      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/FlowTrack/sbin/"
-      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/FlowTrack/"
+      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/flowTrack/bin/"
+      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/flowTrack/sbin/"
+      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/flowTrack/"
       - "C:/Qt/6.10.1/mingw_64/lib/cmake/bin/"
       - "C:/Qt/6.10.1/mingw_64/lib/cmake/sbin/"
       - "C:/Qt/6.10.1/mingw_64/lib/cmake/"
@@ -3685,9 +3685,9 @@ events:
       - "C:/Qt/6.10.1/mingw_64/Program Files/CMake/bin/"
       - "C:/Qt/6.10.1/mingw_64/Program Files/CMake/sbin/"
       - "C:/Qt/6.10.1/mingw_64/Program Files/CMake/"
-      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/FlowTrack/bin/"
-      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/FlowTrack/sbin/"
-      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/FlowTrack/"
+      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/flowTrack/bin/"
+      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/flowTrack/sbin/"
+      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/flowTrack/"
       - "C:/Qt/6.10.1/mingw_64/lib/cmake/bin/"
       - "C:/Qt/6.10.1/mingw_64/lib/cmake/sbin/"
       - "C:/Qt/6.10.1/mingw_64/lib/cmake/"
@@ -3713,9 +3713,9 @@ events:
       - "C:/Program Files/CMake/bin/"
       - "C:/Program Files/CMake/sbin/"
       - "C:/Program Files/CMake/"
-      - "C:/Program Files (x86)/FlowTrack/bin/"
-      - "C:/Program Files (x86)/FlowTrack/sbin/"
-      - "C:/Program Files (x86)/FlowTrack/"
+      - "C:/Program Files (x86)/flowTrack/bin/"
+      - "C:/Program Files (x86)/flowTrack/sbin/"
+      - "C:/Program Files (x86)/flowTrack/"
     searched_directories:
       - "C:/Qt/6.10.1/mingw_64/lib/cmake/bin/windres.com"
       - "C:/Qt/6.10.1/mingw_64/lib/cmake/bin/windres.exe"
@@ -3792,15 +3792,15 @@ events:
       - "C:/Qt/6.10.1/mingw_64/Program Files/CMake/windres.com"
       - "C:/Qt/6.10.1/mingw_64/Program Files/CMake/windres.exe"
       - "C:/Qt/6.10.1/mingw_64/Program Files/CMake/windres"
-      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/FlowTrack/bin/windres.com"
-      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/FlowTrack/bin/windres.exe"
-      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/FlowTrack/bin/windres"
-      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/FlowTrack/sbin/windres.com"
-      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/FlowTrack/sbin/windres.exe"
-      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/FlowTrack/sbin/windres"
-      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/FlowTrack/windres.com"
-      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/FlowTrack/windres.exe"
-      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/FlowTrack/windres"
+      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/flowTrack/bin/windres.com"
+      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/flowTrack/bin/windres.exe"
+      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/flowTrack/bin/windres"
+      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/flowTrack/sbin/windres.com"
+      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/flowTrack/sbin/windres.exe"
+      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/flowTrack/sbin/windres"
+      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/flowTrack/windres.com"
+      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/flowTrack/windres.exe"
+      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/flowTrack/windres"
       - "C:/Qt/6.10.1/mingw_64/lib/cmake/bin/windres.com"
       - "C:/Qt/6.10.1/mingw_64/lib/cmake/bin/windres.exe"
       - "C:/Qt/6.10.1/mingw_64/lib/cmake/bin/windres"
@@ -3876,15 +3876,15 @@ events:
       - "C:/Qt/6.10.1/mingw_64/Program Files/CMake/windres.com"
       - "C:/Qt/6.10.1/mingw_64/Program Files/CMake/windres.exe"
       - "C:/Qt/6.10.1/mingw_64/Program Files/CMake/windres"
-      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/FlowTrack/bin/windres.com"
-      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/FlowTrack/bin/windres.exe"
-      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/FlowTrack/bin/windres"
-      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/FlowTrack/sbin/windres.com"
-      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/FlowTrack/sbin/windres.exe"
-      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/FlowTrack/sbin/windres"
-      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/FlowTrack/windres.com"
-      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/FlowTrack/windres.exe"
-      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/FlowTrack/windres"
+      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/flowTrack/bin/windres.com"
+      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/flowTrack/bin/windres.exe"
+      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/flowTrack/bin/windres"
+      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/flowTrack/sbin/windres.com"
+      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/flowTrack/sbin/windres.exe"
+      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/flowTrack/sbin/windres"
+      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/flowTrack/windres.com"
+      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/flowTrack/windres.exe"
+      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/flowTrack/windres"
       - "C:/Qt/6.10.1/mingw_64/lib/cmake/bin/windres.com"
       - "C:/Qt/6.10.1/mingw_64/lib/cmake/bin/windres.exe"
       - "C:/Qt/6.10.1/mingw_64/lib/cmake/bin/windres"
@@ -3916,12 +3916,12 @@ events:
         - "C:/Qt/6.10.1/mingw_64/bin"
         - "c:\\Qt\\Tools\\Ninja"
         - "c:\\Qt\\Tools\\mingw1310_64\\bin"
-      CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/FlowTrack"
+      CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/flowTrack"
       CMAKE_SYSTEM_PREFIX_PATH:
         - "C:/Program Files"
         - "C:/Program Files (x86)"
         - "C:/Program Files/CMake"
-        - "C:/Program Files (x86)/FlowTrack"
+        - "C:/Program Files (x86)/flowTrack"
       CMAKE_FIND_ROOT_PATH: "C:/Qt/6.10.1/mingw_64;C:/Qt/6.10.1/mingw_64"
   -
     kind: "try_compile-v1"
@@ -3932,8 +3932,8 @@ events:
     checks:
       - "Detecting CXX compiler ABI info"
     directories:
-      source: "D:/workdir/FlowTrack/FlowTrackDesktop/build/CMakeFiles/CMakeScratch/TryCompile-uvg099"
-      binary: "D:/workdir/FlowTrack/FlowTrackDesktop/build/CMakeFiles/CMakeScratch/TryCompile-uvg099"
+      source: "D:/workdir/FlowTrack/FlowTrackDesktop/build/CMakeFiles/CMakeScratch/TryCompile-069s1k"
+      binary: "D:/workdir/FlowTrack/FlowTrackDesktop/build/CMakeFiles/CMakeScratch/TryCompile-069s1k"
     cmakeVariables:
       CMAKE_CXX_FLAGS: ""
       CMAKE_CXX_FLAGS_DEBUG: "-DQT_QML_DEBUG -DQT_DECLARATIVE_DEBUG -g"
@@ -3949,10 +3949,10 @@ events:
       variable: "CMAKE_CXX_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: 'D:/workdir/FlowTrack/FlowTrackDesktop/build/CMakeFiles/CMakeScratch/TryCompile-uvg099'
+        Change Dir: 'D:/workdir/FlowTrack/FlowTrackDesktop/build/CMakeFiles/CMakeScratch/TryCompile-069s1k'
         
-        Run Build Command(s): C:/Qt/Tools/Ninja/ninja.exe -v cmTC_f7be8
-        [1/2] c:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe   -v -o CMakeFiles/cmTC_f7be8.dir/CMakeCXXCompilerABI.cpp.obj -c "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeCXXCompilerABI.cpp"
+        Run Build Command(s): C:/Qt/Tools/Ninja/ninja.exe -v cmTC_05527
+        [1/2] c:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe   -v -o CMakeFiles/cmTC_05527.dir/CMakeCXXCompilerABI.cpp.obj -c "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeCXXCompilerABI.cpp"
         Using built-in specs.
         COLLECT_GCC=c:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe
         Target: x86_64-w64-mingw32
@@ -3960,8 +3960,8 @@ events:
         Thread model: posix
         Supported LTO compression algorithms: zlib
         gcc version 13.1.0 (x86_64-posix-seh-rev1, Built by MinGW-Builds project) 
-        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_f7be8.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=core2' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_f7be8.dir/'
-         C:/Qt/Tools/mingw1310_64/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/cc1plus.exe -quiet -v -iprefix C:/Qt/Tools/mingw1310_64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/ -D_REENTRANT C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles/cmTC_f7be8.dir/ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -mtune=core2 -march=nocona -version -o C:\\Users\\anura\\AppData\\Local\\Temp\\ccNkB91X.s
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_05527.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=core2' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_05527.dir/'
+         C:/Qt/Tools/mingw1310_64/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/cc1plus.exe -quiet -v -iprefix C:/Qt/Tools/mingw1310_64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/ -D_REENTRANT C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles/cmTC_05527.dir/ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -mtune=core2 -march=nocona -version -o C:\\Users\\anura\\AppData\\Local\\Temp\\cclgdlP7.s
         GNU C++17 (x86_64-posix-seh-rev1, Built by MinGW-Builds project) version 13.1.0 (x86_64-w64-mingw32)
         	compiled by GNU C version 13.1.0, GMP version 6.2.1, MPFR version 4.1.0, MPC version 1.2.1, isl version isl-0.25-GMP
         
@@ -3984,13 +3984,13 @@ events:
          C:/Qt/Tools/mingw1310_64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include
         End of search list.
         Compiler executable checksum: b3d236387f35294e2a73c51628039e05
-        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_f7be8.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=core2' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_f7be8.dir/'
-         C:/Qt/Tools/mingw1310_64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/bin/as.exe -v -o CMakeFiles/cmTC_f7be8.dir/CMakeCXXCompilerABI.cpp.obj C:\\Users\\anura\\AppData\\Local\\Temp\\ccNkB91X.s
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_05527.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=core2' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_05527.dir/'
+         C:/Qt/Tools/mingw1310_64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/bin/as.exe -v -o CMakeFiles/cmTC_05527.dir/CMakeCXXCompilerABI.cpp.obj C:\\Users\\anura\\AppData\\Local\\Temp\\cclgdlP7.s
         GNU assembler version 2.39 (x86_64-w64-mingw32) using BFD version (GNU Binutils) 2.39
         COMPILER_PATH=C:/Qt/Tools/mingw1310_64/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/;C:/Qt/Tools/mingw1310_64/bin/../libexec/gcc/;C:/Qt/Tools/mingw1310_64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/bin/
         LIBRARY_PATH=C:/Qt/Tools/mingw1310_64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/;C:/Qt/Tools/mingw1310_64/bin/../lib/gcc/;C:/Qt/Tools/mingw1310_64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib/;C:/Qt/Tools/mingw1310_64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../lib/;C:/Qt/Tools/mingw1310_64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/;C:/Qt/Tools/mingw1310_64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../\x0d
-        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_f7be8.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=core2' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_f7be8.dir/CMakeCXXCompilerABI.cpp.'\x0d
-        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && c:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe  -v -Wl,-v CMakeFiles/cmTC_f7be8.dir/CMakeCXXCompilerABI.cpp.obj -o cmTC_f7be8.exe -Wl,--out-implib,libcmTC_f7be8.dll.a -Wl,--major-image-version,0,--minor-image-version,0   && cd ."
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_05527.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=core2' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_05527.dir/CMakeCXXCompilerABI.cpp.'\x0d
+        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && c:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe  -v -Wl,-v CMakeFiles/cmTC_05527.dir/CMakeCXXCompilerABI.cpp.obj -o cmTC_05527.exe -Wl,--out-implib,libcmTC_05527.dll.a -Wl,--major-image-version,0,--minor-image-version,0   && cd ."
         Using built-in specs.
         COLLECT_GCC=c:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe
         COLLECT_LTO_WRAPPER=C:/Qt/Tools/mingw1310_64/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/lto-wrapper.exe
@@ -4001,12 +4001,12 @@ events:
         gcc version 13.1.0 (x86_64-posix-seh-rev1, Built by MinGW-Builds project) 
         COMPILER_PATH=C:/Qt/Tools/mingw1310_64/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/;C:/Qt/Tools/mingw1310_64/bin/../libexec/gcc/;C:/Qt/Tools/mingw1310_64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/bin/
         LIBRARY_PATH=C:/Qt/Tools/mingw1310_64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/;C:/Qt/Tools/mingw1310_64/bin/../lib/gcc/;C:/Qt/Tools/mingw1310_64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib/;C:/Qt/Tools/mingw1310_64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../lib/;C:/Qt/Tools/mingw1310_64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/;C:/Qt/Tools/mingw1310_64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../
-        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_f7be8.exe' '-shared-libgcc' '-mtune=core2' '-march=nocona' '-dumpdir' 'cmTC_f7be8.'
-         C:/Qt/Tools/mingw1310_64/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/collect2.exe -plugin C:/Qt/Tools/mingw1310_64/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/liblto_plugin.dll -plugin-opt=C:/Qt/Tools/mingw1310_64/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\anura\\AppData\\Local\\Temp\\ccLdXsS2.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-liconv -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 --sysroot=C:/buildroot/x86_64-1310-posix-seh-msvcrt-rt_v11-rev1/mingw64 -m i386pep -Bdynamic -o cmTC_f7be8.exe C:/Qt/Tools/mingw1310_64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o C:/Qt/Tools/mingw1310_64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/crtbegin.o -LC:/Qt/Tools/mingw1310_64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0 -LC:/Qt/Tools/mingw1310_64/bin/../lib/gcc -LC:/Qt/Tools/mingw1310_64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/Qt/Tools/mingw1310_64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../lib -LC:/Qt/Tools/mingw1310_64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib -LC:/Qt/Tools/mingw1310_64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../.. -v CMakeFiles/cmTC_f7be8.dir/CMakeCXXCompilerABI.cpp.obj --out-implib libcmTC_f7be8.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmoldname -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -liconv -lmingw32 -lgcc_s -lgcc -lmoldname -lmingwex -lmsvcrt -lkernel32 C:/Qt/Tools/mingw1310_64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/crtend.o
+        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_05527.exe' '-shared-libgcc' '-mtune=core2' '-march=nocona' '-dumpdir' 'cmTC_05527.'
+         C:/Qt/Tools/mingw1310_64/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/collect2.exe -plugin C:/Qt/Tools/mingw1310_64/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/liblto_plugin.dll -plugin-opt=C:/Qt/Tools/mingw1310_64/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\anura\\AppData\\Local\\Temp\\ccSoxwei.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-liconv -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 --sysroot=C:/buildroot/x86_64-1310-posix-seh-msvcrt-rt_v11-rev1/mingw64 -m i386pep -Bdynamic -o cmTC_05527.exe C:/Qt/Tools/mingw1310_64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o C:/Qt/Tools/mingw1310_64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/crtbegin.o -LC:/Qt/Tools/mingw1310_64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0 -LC:/Qt/Tools/mingw1310_64/bin/../lib/gcc -LC:/Qt/Tools/mingw1310_64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/Qt/Tools/mingw1310_64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../lib -LC:/Qt/Tools/mingw1310_64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib -LC:/Qt/Tools/mingw1310_64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../.. -v CMakeFiles/cmTC_05527.dir/CMakeCXXCompilerABI.cpp.obj --out-implib libcmTC_05527.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmoldname -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -liconv -lmingw32 -lgcc_s -lgcc -lmoldname -lmingwex -lmsvcrt -lkernel32 C:/Qt/Tools/mingw1310_64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/crtend.o
         collect2 version 13.1.0
-        C:/Qt/Tools/mingw1310_64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe -plugin C:/Qt/Tools/mingw1310_64/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/liblto_plugin.dll -plugin-opt=C:/Qt/Tools/mingw1310_64/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\anura\\AppData\\Local\\Temp\\ccLdXsS2.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-liconv -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 --sysroot=C:/buildroot/x86_64-1310-posix-seh-msvcrt-rt_v11-rev1/mingw64 -m i386pep -Bdynamic -o cmTC_f7be8.exe C:/Qt/Tools/mingw1310_64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o C:/Qt/Tools/mingw1310_64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/crtbegin.o -LC:/Qt/Tools/mingw1310_64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0 -LC:/Qt/Tools/mingw1310_64/bin/../lib/gcc -LC:/Qt/Tools/mingw1310_64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/Qt/Tools/mingw1310_64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../lib -LC:/Qt/Tools/mingw1310_64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib -LC:/Qt/Tools/mingw1310_64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../.. -v CMakeFiles/cmTC_f7be8.dir/CMakeCXXCompilerABI.cpp.obj --out-implib libcmTC_f7be8.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmoldname -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -liconv -lmingw32 -lgcc_s -lgcc -lmoldname -lmingwex -lmsvcrt -lkernel32 C:/Qt/Tools/mingw1310_64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/crtend.o\x0d
+        C:/Qt/Tools/mingw1310_64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe -plugin C:/Qt/Tools/mingw1310_64/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/liblto_plugin.dll -plugin-opt=C:/Qt/Tools/mingw1310_64/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\anura\\AppData\\Local\\Temp\\ccSoxwei.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-liconv -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 --sysroot=C:/buildroot/x86_64-1310-posix-seh-msvcrt-rt_v11-rev1/mingw64 -m i386pep -Bdynamic -o cmTC_05527.exe C:/Qt/Tools/mingw1310_64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o C:/Qt/Tools/mingw1310_64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/crtbegin.o -LC:/Qt/Tools/mingw1310_64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0 -LC:/Qt/Tools/mingw1310_64/bin/../lib/gcc -LC:/Qt/Tools/mingw1310_64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/Qt/Tools/mingw1310_64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../lib -LC:/Qt/Tools/mingw1310_64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib -LC:/Qt/Tools/mingw1310_64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../.. -v CMakeFiles/cmTC_05527.dir/CMakeCXXCompilerABI.cpp.obj --out-implib libcmTC_05527.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmoldname -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -liconv -lmingw32 -lgcc_s -lgcc -lmoldname -lmingwex -lmsvcrt -lkernel32 C:/Qt/Tools/mingw1310_64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/crtend.o\x0d
         GNU ld (GNU Binutils) 2.39\x0d
-        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_f7be8.exe' '-shared-libgcc' '-mtune=core2' '-march=nocona' '-dumpdir' 'cmTC_f7be8.'\x0d
+        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_05527.exe' '-shared-libgcc' '-mtune=core2' '-march=nocona' '-dumpdir' 'cmTC_05527.'\x0d
         
       exitCode: 0
   -
@@ -4045,10 +4045,10 @@ events:
       Parsed CXX implicit link information:
         link line regex: [^( *|.*[/\\])(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\\]+-)?ld|collect2)[^/\\]*( |$)]
         linker tool regex: [^[ 	]*(->|"|[0-9]+>[ 	-]*Build:[ 	0-9]+ ms[ 	]*)?[ 	]*(([^"]*[/\\])?(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)))("|,| |$)]
-        ignore line: [Change Dir: 'D:/workdir/FlowTrack/FlowTrackDesktop/build/CMakeFiles/CMakeScratch/TryCompile-uvg099']
+        ignore line: [Change Dir: 'D:/workdir/FlowTrack/FlowTrackDesktop/build/CMakeFiles/CMakeScratch/TryCompile-069s1k']
         ignore line: []
-        ignore line: [Run Build Command(s): C:/Qt/Tools/Ninja/ninja.exe -v cmTC_f7be8]
-        ignore line: [[1/2] c:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe   -v -o CMakeFiles/cmTC_f7be8.dir/CMakeCXXCompilerABI.cpp.obj -c "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeCXXCompilerABI.cpp"]
+        ignore line: [Run Build Command(s): C:/Qt/Tools/Ninja/ninja.exe -v cmTC_05527]
+        ignore line: [[1/2] c:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe   -v -o CMakeFiles/cmTC_05527.dir/CMakeCXXCompilerABI.cpp.obj -c "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeCXXCompilerABI.cpp"]
         ignore line: [Using built-in specs.]
         ignore line: [COLLECT_GCC=c:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe]
         ignore line: [Target: x86_64-w64-mingw32]
@@ -4056,8 +4056,8 @@ events:
         ignore line: [Thread model: posix]
         ignore line: [Supported LTO compression algorithms: zlib]
         ignore line: [gcc version 13.1.0 (x86_64-posix-seh-rev1  Built by MinGW-Builds project) ]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_f7be8.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=core2' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_f7be8.dir/']
-        ignore line: [ C:/Qt/Tools/mingw1310_64/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/cc1plus.exe -quiet -v -iprefix C:/Qt/Tools/mingw1310_64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/ -D_REENTRANT C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles/cmTC_f7be8.dir/ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -mtune=core2 -march=nocona -version -o C:\\Users\\anura\\AppData\\Local\\Temp\\ccNkB91X.s]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_05527.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=core2' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_05527.dir/']
+        ignore line: [ C:/Qt/Tools/mingw1310_64/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/cc1plus.exe -quiet -v -iprefix C:/Qt/Tools/mingw1310_64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/ -D_REENTRANT C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles/cmTC_05527.dir/ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -mtune=core2 -march=nocona -version -o C:\\Users\\anura\\AppData\\Local\\Temp\\cclgdlP7.s]
         ignore line: [GNU C++17 (x86_64-posix-seh-rev1  Built by MinGW-Builds project) version 13.1.0 (x86_64-w64-mingw32)]
         ignore line: [	compiled by GNU C version 13.1.0  GMP version 6.2.1  MPFR version 4.1.0  MPC version 1.2.1  isl version isl-0.25-GMP]
         ignore line: []
@@ -4080,8 +4080,8 @@ events:
         ignore line: [ C:/Qt/Tools/mingw1310_64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include]
         ignore line: [End of search list.]
         ignore line: [Compiler executable checksum: b3d236387f35294e2a73c51628039e05]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_f7be8.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=core2' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_f7be8.dir/']
-        ignore line: [ C:/Qt/Tools/mingw1310_64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/bin/as.exe -v -o CMakeFiles/cmTC_f7be8.dir/CMakeCXXCompilerABI.cpp.obj C:\\Users\\anura\\AppData\\Local\\Temp\\ccNkB91X.s]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_05527.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=core2' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_05527.dir/']
+        ignore line: [ C:/Qt/Tools/mingw1310_64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/bin/as.exe -v -o CMakeFiles/cmTC_05527.dir/CMakeCXXCompilerABI.cpp.obj C:\\Users\\anura\\AppData\\Local\\Temp\\cclgdlP7.s]
         ignore line: [GNU assembler version 2.39 (x86_64-w64-mingw32) using BFD version (GNU Binutils) 2.39]
         ignore line: [COMPILER_PATH=C:/Qt/Tools/mingw1310_64/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/]
         ignore line: [C:/Qt/Tools/mingw1310_64/bin/../libexec/gcc/]
@@ -4092,8 +4092,8 @@ events:
         ignore line: [C:/Qt/Tools/mingw1310_64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../lib/]
         ignore line: [C:/Qt/Tools/mingw1310_64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/]
         ignore line: [C:/Qt/Tools/mingw1310_64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../\x0d]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_f7be8.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=core2' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_f7be8.dir/CMakeCXXCompilerABI.cpp.'\x0d]
-        ignore line: [[2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && c:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe  -v -Wl -v CMakeFiles/cmTC_f7be8.dir/CMakeCXXCompilerABI.cpp.obj -o cmTC_f7be8.exe -Wl --out-implib libcmTC_f7be8.dll.a -Wl --major-image-version 0 --minor-image-version 0   && cd ."]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_05527.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=core2' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_05527.dir/CMakeCXXCompilerABI.cpp.'\x0d]
+        ignore line: [[2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && c:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe  -v -Wl -v CMakeFiles/cmTC_05527.dir/CMakeCXXCompilerABI.cpp.obj -o cmTC_05527.exe -Wl --out-implib libcmTC_05527.dll.a -Wl --major-image-version 0 --minor-image-version 0   && cd ."]
         ignore line: [Using built-in specs.]
         ignore line: [COLLECT_GCC=c:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe]
         ignore line: [COLLECT_LTO_WRAPPER=C:/Qt/Tools/mingw1310_64/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/lto-wrapper.exe]
@@ -4111,13 +4111,13 @@ events:
         ignore line: [C:/Qt/Tools/mingw1310_64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../lib/]
         ignore line: [C:/Qt/Tools/mingw1310_64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/]
         ignore line: [C:/Qt/Tools/mingw1310_64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_f7be8.exe' '-shared-libgcc' '-mtune=core2' '-march=nocona' '-dumpdir' 'cmTC_f7be8.']
-        link line: [ C:/Qt/Tools/mingw1310_64/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/collect2.exe -plugin C:/Qt/Tools/mingw1310_64/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/liblto_plugin.dll -plugin-opt=C:/Qt/Tools/mingw1310_64/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\anura\\AppData\\Local\\Temp\\ccLdXsS2.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-liconv -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 --sysroot=C:/buildroot/x86_64-1310-posix-seh-msvcrt-rt_v11-rev1/mingw64 -m i386pep -Bdynamic -o cmTC_f7be8.exe C:/Qt/Tools/mingw1310_64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o C:/Qt/Tools/mingw1310_64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/crtbegin.o -LC:/Qt/Tools/mingw1310_64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0 -LC:/Qt/Tools/mingw1310_64/bin/../lib/gcc -LC:/Qt/Tools/mingw1310_64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/Qt/Tools/mingw1310_64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../lib -LC:/Qt/Tools/mingw1310_64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib -LC:/Qt/Tools/mingw1310_64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../.. -v CMakeFiles/cmTC_f7be8.dir/CMakeCXXCompilerABI.cpp.obj --out-implib libcmTC_f7be8.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmoldname -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -liconv -lmingw32 -lgcc_s -lgcc -lmoldname -lmingwex -lmsvcrt -lkernel32 C:/Qt/Tools/mingw1310_64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/crtend.o]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_05527.exe' '-shared-libgcc' '-mtune=core2' '-march=nocona' '-dumpdir' 'cmTC_05527.']
+        link line: [ C:/Qt/Tools/mingw1310_64/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/collect2.exe -plugin C:/Qt/Tools/mingw1310_64/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/liblto_plugin.dll -plugin-opt=C:/Qt/Tools/mingw1310_64/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\anura\\AppData\\Local\\Temp\\ccSoxwei.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-liconv -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 --sysroot=C:/buildroot/x86_64-1310-posix-seh-msvcrt-rt_v11-rev1/mingw64 -m i386pep -Bdynamic -o cmTC_05527.exe C:/Qt/Tools/mingw1310_64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o C:/Qt/Tools/mingw1310_64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/crtbegin.o -LC:/Qt/Tools/mingw1310_64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0 -LC:/Qt/Tools/mingw1310_64/bin/../lib/gcc -LC:/Qt/Tools/mingw1310_64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/Qt/Tools/mingw1310_64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../lib -LC:/Qt/Tools/mingw1310_64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib -LC:/Qt/Tools/mingw1310_64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../.. -v CMakeFiles/cmTC_05527.dir/CMakeCXXCompilerABI.cpp.obj --out-implib libcmTC_05527.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmoldname -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -liconv -lmingw32 -lgcc_s -lgcc -lmoldname -lmingwex -lmsvcrt -lkernel32 C:/Qt/Tools/mingw1310_64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/crtend.o]
           arg [C:/Qt/Tools/mingw1310_64/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/collect2.exe] ==> ignore
           arg [-plugin] ==> ignore
           arg [C:/Qt/Tools/mingw1310_64/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/liblto_plugin.dll] ==> ignore
           arg [-plugin-opt=C:/Qt/Tools/mingw1310_64/bin/../libexec/gcc/x86_64-w64-mingw32/13.1.0/lto-wrapper.exe] ==> ignore
-          arg [-plugin-opt=-fresolution=C:\\Users\\anura\\AppData\\Local\\Temp\\ccLdXsS2.res] ==> ignore
+          arg [-plugin-opt=-fresolution=C:\\Users\\anura\\AppData\\Local\\Temp\\ccSoxwei.res] ==> ignore
           arg [-plugin-opt=-pass-through=-lmingw32] ==> ignore
           arg [-plugin-opt=-pass-through=-lgcc_s] ==> ignore
           arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
@@ -4143,7 +4143,7 @@ events:
           arg [i386pep] ==> ignore
           arg [-Bdynamic] ==> search dynamic
           arg [-o] ==> ignore
-          arg [cmTC_f7be8.exe] ==> ignore
+          arg [cmTC_05527.exe] ==> ignore
           arg [C:/Qt/Tools/mingw1310_64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o] ==> obj [C:/Qt/Tools/mingw1310_64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o]
           arg [C:/Qt/Tools/mingw1310_64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/crtbegin.o] ==> obj [C:/Qt/Tools/mingw1310_64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/crtbegin.o]
           arg [-LC:/Qt/Tools/mingw1310_64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0] ==> dir [C:/Qt/Tools/mingw1310_64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0]
@@ -4153,9 +4153,9 @@ events:
           arg [-LC:/Qt/Tools/mingw1310_64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib] ==> dir [C:/Qt/Tools/mingw1310_64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/lib]
           arg [-LC:/Qt/Tools/mingw1310_64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../..] ==> dir [C:/Qt/Tools/mingw1310_64/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../..]
           arg [-v] ==> ignore
-          arg [CMakeFiles/cmTC_f7be8.dir/CMakeCXXCompilerABI.cpp.obj] ==> ignore
+          arg [CMakeFiles/cmTC_05527.dir/CMakeCXXCompilerABI.cpp.obj] ==> ignore
           arg [--out-implib] ==> ignore
-          arg [libcmTC_f7be8.dll.a] ==> ignore
+          arg [libcmTC_05527.dll.a] ==> ignore
           arg [--major-image-version] ==> ignore
           arg [0] ==> ignore
           arg [--minor-image-version] ==> ignore
@@ -4246,8 +4246,8 @@ events:
     checks:
       - "Performing Test CMAKE_HAVE_LIBC_PTHREAD"
     directories:
-      source: "D:/workdir/FlowTrack/FlowTrackDesktop/build/CMakeFiles/CMakeScratch/TryCompile-oi6905"
-      binary: "D:/workdir/FlowTrack/FlowTrackDesktop/build/CMakeFiles/CMakeScratch/TryCompile-oi6905"
+      source: "D:/workdir/FlowTrack/FlowTrackDesktop/build/CMakeFiles/CMakeScratch/TryCompile-bfzfl2"
+      binary: "D:/workdir/FlowTrack/FlowTrackDesktop/build/CMakeFiles/CMakeScratch/TryCompile-bfzfl2"
     cmakeVariables:
       CMAKE_CXX_FLAGS: ""
       CMAKE_CXX_FLAGS_DEBUG: "-DQT_QML_DEBUG -DQT_DECLARATIVE_DEBUG -g"
@@ -4262,58 +4262,22 @@ events:
       variable: "CMAKE_HAVE_LIBC_PTHREAD"
       cached: true
       stdout: |
-        Change Dir: 'D:/workdir/FlowTrack/FlowTrackDesktop/build/CMakeFiles/CMakeScratch/TryCompile-oi6905'
+        Change Dir: 'D:/workdir/FlowTrack/FlowTrackDesktop/build/CMakeFiles/CMakeScratch/TryCompile-bfzfl2'
         
-        Run Build Command(s): C:/Qt/Tools/Ninja/ninja.exe -v cmTC_32fb5
-        [1/2] c:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DCMAKE_HAVE_LIBC_PTHREAD  -std=gnu++17 -o CMakeFiles/cmTC_32fb5.dir/src.cxx.obj -c D:/workdir/FlowTrack/FlowTrackDesktop/build/CMakeFiles/CMakeScratch/TryCompile-oi6905/src.cxx
-        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && c:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe   CMakeFiles/cmTC_32fb5.dir/src.cxx.obj -o cmTC_32fb5.exe -Wl,--out-implib,libcmTC_32fb5.dll.a -Wl,--major-image-version,0,--minor-image-version,0  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 && cd ."
-        
-      exitCode: 0
-  -
-    kind: "try_compile-v1"
-    backtrace:
-      - "C:/Program Files/CMake/share/cmake-4.2/Modules/Internal/CheckSourceCompiles.cmake:104 (try_compile)"
-      - "C:/Program Files/CMake/share/cmake-4.2/Modules/CheckCXXSourceCompiles.cmake:103 (cmake_check_source_compiles)"
-      - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6/FindWrapAtomic.cmake:36 (check_cxx_source_compiles)"
-      - "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeFindDependencyMacro.cmake:93 (find_package)"
-      - "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeFindDependencyMacro.cmake:125 (__find_dependency_common)"
-      - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6/QtPublicDependencyHelpers.cmake:36 (find_dependency)"
-      - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6Core/Qt6CoreDependencies.cmake:36 (_qt_internal_find_third_party_dependencies)"
-      - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6Core/Qt6CoreConfig.cmake:42 (include)"
-      - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6/Qt6Config.cmake:237 (find_package)"
-      - "CMakeLists.txt:10 (find_package)"
-    checks:
-      - "Performing Test HAVE_STDATOMIC"
-    directories:
-      source: "D:/workdir/FlowTrack/FlowTrackDesktop/build/CMakeFiles/CMakeScratch/TryCompile-yz6mcb"
-      binary: "D:/workdir/FlowTrack/FlowTrackDesktop/build/CMakeFiles/CMakeScratch/TryCompile-yz6mcb"
-    cmakeVariables:
-      CMAKE_CXX_FLAGS: ""
-      CMAKE_CXX_FLAGS_DEBUG: "-DQT_QML_DEBUG -DQT_DECLARATIVE_DEBUG -g"
-      CMAKE_EXE_LINKER_FLAGS: ""
-      CMAKE_MODULE_PATH: "c:/Qt/6.10.1/mingw_64/lib/cmake/Qt6/platforms;C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6;C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6/3rdparty/extra-cmake-modules/find-modules;C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6/3rdparty/kwin"
-      QT_ADDITIONAL_PACKAGES_PREFIX_PATH: ""
-      QT_CHAINLOAD_TOOLCHAIN_FILE: ""
-      QT_TOOLCHAIN_INCLUDE_FILE: ""
-      QT_TOOLCHAIN_RELOCATABLE_CMAKE_DIR: "C:/Qt/6.10.1/mingw_64/lib/cmake"
-      QT_TOOLCHAIN_RELOCATABLE_PREFIX: ""
-    buildResult:
-      variable: "HAVE_STDATOMIC"
-      cached: true
-      stdout: |
-        Change Dir: 'D:/workdir/FlowTrack/FlowTrackDesktop/build/CMakeFiles/CMakeScratch/TryCompile-yz6mcb'
-        
-        Run Build Command(s): C:/Qt/Tools/Ninja/ninja.exe -v cmTC_49cdf
-        [1/2] c:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DHAVE_STDATOMIC  -std=gnu++17 -o CMakeFiles/cmTC_49cdf.dir/src.cxx.obj -c D:/workdir/FlowTrack/FlowTrackDesktop/build/CMakeFiles/CMakeScratch/TryCompile-yz6mcb/src.cxx
-        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && c:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe   CMakeFiles/cmTC_49cdf.dir/src.cxx.obj -o cmTC_49cdf.exe -Wl,--out-implib,libcmTC_49cdf.dll.a -Wl,--major-image-version,0,--minor-image-version,0  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 && cd ."
+        Run Build Command(s): C:/Qt/Tools/Ninja/ninja.exe -v cmTC_174c4
+        [1/2] c:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DCMAKE_HAVE_LIBC_PTHREAD  -std=gnu++17 -o CMakeFiles/cmTC_174c4.dir/src.cxx.obj -c D:/workdir/FlowTrack/FlowTrackDesktop/build/CMakeFiles/CMakeScratch/TryCompile-bfzfl2/src.cxx
+        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && c:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe   CMakeFiles/cmTC_174c4.dir/src.cxx.obj -o cmTC_174c4.exe -Wl,--out-implib,libcmTC_174c4.dll.a -Wl,--major-image-version,0,--minor-image-version,0  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 && cd ."
         
       exitCode: 0
   -
     kind: "find_package-v1"
     backtrace:
       - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6/QtPublicDependencyHelpers.cmake:100 (find_package)"
-      - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6Core/Qt6CoreDependencies.cmake:43 (_qt_internal_find_tool_dependencies)"
-      - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6Core/Qt6CoreConfig.cmake:42 (include)"
+      - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsDependencies.cmake:14 (_qt_internal_find_tool_dependencies)"
+      - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsConfig.cmake:36 (include)"
+      - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6/QtPublicDependencyHelpers.cmake:100 (find_package)"
+      - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6Widgets/Qt6WidgetsDependencies.cmake:42 (_qt_internal_find_tool_dependencies)"
+      - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6Widgets/Qt6WidgetsConfig.cmake:40 (include)"
       - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6/Qt6Config.cmake:237 (find_package)"
       - "CMakeLists.txt:10 (find_package)"
     name: "Qt6CoreTools"
@@ -4337,7 +4301,7 @@ events:
       names:
         - "Qt6CoreTools"
       search_paths:
-        - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6Core/.."
+        - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6WidgetsTools/.."
         - "C:/Qt/6.10.1/mingw_64/lib/cmake"
       path_suffixes:
         - ""
@@ -4384,13 +4348,226 @@ events:
         - "C:/Qt/6.10.1/mingw_64/bin"
         - "c:\\Qt\\Tools\\Ninja"
         - "c:\\Qt\\Tools\\mingw1310_64\\bin"
-      CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/FlowTrack"
+      CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/flowTrack"
       CMAKE_SYSTEM_PREFIX_PATH:
         - "C:/Program Files"
         - "C:/Program Files (x86)"
         - "C:/Program Files/CMake"
-        - "C:/Program Files (x86)/FlowTrack"
+        - "C:/Program Files (x86)/flowTrack"
       CMAKE_FIND_ROOT_PATH: "C:/Qt/6.10.1/mingw_64;C:/Qt/6.10.1/mingw_64"
+  -
+    kind: "find_package-v1"
+    backtrace:
+      - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6/QtPublicDependencyHelpers.cmake:100 (find_package)"
+      - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsDependencies.cmake:14 (_qt_internal_find_tool_dependencies)"
+      - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsConfig.cmake:36 (include)"
+      - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6/QtPublicDependencyHelpers.cmake:100 (find_package)"
+      - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6Widgets/Qt6WidgetsDependencies.cmake:42 (_qt_internal_find_tool_dependencies)"
+      - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6Widgets/Qt6WidgetsConfig.cmake:40 (include)"
+      - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6/Qt6Config.cmake:237 (find_package)"
+      - "CMakeLists.txt:10 (find_package)"
+    name: "Qt6GuiTools"
+    configs:
+      -
+        filename: "Qt6GuiToolsConfig.cmake"
+        kind: "cmake"
+      -
+        filename: "qt6guitools-config.cmake"
+        kind: "cmake"
+    version_request:
+      version: "6.10.1"
+      version_complete: "6.10.1"
+      exact: false
+    settings:
+      required: "optional"
+      quiet: false
+      global: false
+      policy_scope: true
+      bypass_provider: false
+      names:
+        - "Qt6GuiTools"
+      search_paths:
+        - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6WidgetsTools/.."
+        - "C:/Qt/6.10.1/mingw_64/lib/cmake"
+      path_suffixes:
+        - ""
+      paths:
+        CMAKE_FIND_USE_CMAKE_PATH: true
+        CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: true
+        CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+        CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
+        CMAKE_FIND_USE_INSTALL_PREFIX: true
+        CMAKE_FIND_USE_PACKAGE_ROOT_PATH: true
+        CMAKE_FIND_USE_CMAKE_PACKAGE_REGISTRY: true
+        CMAKE_FIND_USE_SYSTEM_PACKAGE_REGISTRY: true
+        CMAKE_FIND_ROOT_PATH_MODE: "BOTH"
+    candidates:
+      -
+        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6GuiToolsConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/qt6guitools-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+    found:
+      path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6GuiTools/Qt6GuiToolsConfig.cmake"
+      mode: "config"
+      version: "6.10.1"
+    search_context:
+      CMAKE_PREFIX_PATH:
+        - "C:/Qt/6.10.1/mingw_64/lib/cmake"
+        - "C:/Qt/6.10.1/mingw_64/lib/cmake"
+      ENV{PATH}:
+        - "c:\\Qt\\Tools\\mingw1310_64\\bin"
+        - "c:\\Qt\\6.10.1\\mingw_64\\bin"
+        - "C:/Program Files/Common Files/Oracle/Java/javapath"
+        - "C:\\WINDOWS\\system32"
+        - "C:/WINDOWS"
+        - "C:\\WINDOWS\\System32\\Wbem"
+        - "C:/WINDOWS/System32/WindowsPowerShell/v1.0/"
+        - "C:\\WINDOWS\\System32\\OpenSSH\\"
+        - "C:/Program Files/Git/cmd"
+        - "C:\\Program Files\\CMake\\bin"
+        - "C:/Users/anura/AppData/Local/Microsoft/WindowsApps"
+        - "C:\\Users\\anura\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
+        - "C:/Qt/6.10.1/mingw_64/bin"
+        - "c:\\Qt\\Tools\\Ninja"
+        - "c:\\Qt\\Tools\\mingw1310_64\\bin"
+      CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/flowTrack"
+      CMAKE_SYSTEM_PREFIX_PATH:
+        - "C:/Program Files"
+        - "C:/Program Files (x86)"
+        - "C:/Program Files/CMake"
+        - "C:/Program Files (x86)/flowTrack"
+      CMAKE_FIND_ROOT_PATH: "C:/Qt/6.10.1/mingw_64;C:/Qt/6.10.1/mingw_64"
+  -
+    kind: "find_package-v1"
+    backtrace:
+      - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6/QtPublicDependencyHelpers.cmake:100 (find_package)"
+      - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6Widgets/Qt6WidgetsDependencies.cmake:42 (_qt_internal_find_tool_dependencies)"
+      - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6Widgets/Qt6WidgetsConfig.cmake:40 (include)"
+      - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6/Qt6Config.cmake:237 (find_package)"
+      - "CMakeLists.txt:10 (find_package)"
+    name: "Qt6WidgetsTools"
+    configs:
+      -
+        filename: "Qt6WidgetsToolsConfig.cmake"
+        kind: "cmake"
+      -
+        filename: "qt6widgetstools-config.cmake"
+        kind: "cmake"
+    version_request:
+      version: "6.10.1"
+      version_complete: "6.10.1"
+      exact: false
+    settings:
+      required: "optional"
+      quiet: false
+      global: false
+      policy_scope: true
+      bypass_provider: false
+      names:
+        - "Qt6WidgetsTools"
+      search_paths:
+        - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6Widgets/.."
+        - "C:/Qt/6.10.1/mingw_64/lib/cmake"
+      path_suffixes:
+        - ""
+      paths:
+        CMAKE_FIND_USE_CMAKE_PATH: true
+        CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: true
+        CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+        CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
+        CMAKE_FIND_USE_INSTALL_PREFIX: true
+        CMAKE_FIND_USE_PACKAGE_ROOT_PATH: true
+        CMAKE_FIND_USE_CMAKE_PACKAGE_REGISTRY: true
+        CMAKE_FIND_USE_SYSTEM_PACKAGE_REGISTRY: true
+        CMAKE_FIND_ROOT_PATH_MODE: "BOTH"
+    candidates:
+      -
+        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6WidgetsToolsConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/qt6widgetstools-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+    found:
+      path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsConfig.cmake"
+      mode: "config"
+      version: "6.10.1"
+    search_context:
+      CMAKE_PREFIX_PATH:
+        - "C:/Qt/6.10.1/mingw_64/lib/cmake"
+        - "C:/Qt/6.10.1/mingw_64/lib/cmake"
+      ENV{PATH}:
+        - "c:\\Qt\\Tools\\mingw1310_64\\bin"
+        - "c:\\Qt\\6.10.1\\mingw_64\\bin"
+        - "C:/Program Files/Common Files/Oracle/Java/javapath"
+        - "C:\\WINDOWS\\system32"
+        - "C:/WINDOWS"
+        - "C:\\WINDOWS\\System32\\Wbem"
+        - "C:/WINDOWS/System32/WindowsPowerShell/v1.0/"
+        - "C:\\WINDOWS\\System32\\OpenSSH\\"
+        - "C:/Program Files/Git/cmd"
+        - "C:\\Program Files\\CMake\\bin"
+        - "C:/Users/anura/AppData/Local/Microsoft/WindowsApps"
+        - "C:\\Users\\anura\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
+        - "C:/Qt/6.10.1/mingw_64/bin"
+        - "c:\\Qt\\Tools\\Ninja"
+        - "c:\\Qt\\Tools\\mingw1310_64\\bin"
+      CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/flowTrack"
+      CMAKE_SYSTEM_PREFIX_PATH:
+        - "C:/Program Files"
+        - "C:/Program Files (x86)"
+        - "C:/Program Files/CMake"
+        - "C:/Program Files (x86)/flowTrack"
+      CMAKE_FIND_ROOT_PATH: "C:/Qt/6.10.1/mingw_64;C:/Qt/6.10.1/mingw_64"
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.2/Modules/Internal/CheckSourceCompiles.cmake:104 (try_compile)"
+      - "C:/Program Files/CMake/share/cmake-4.2/Modules/CheckCXXSourceCompiles.cmake:103 (cmake_check_source_compiles)"
+      - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6/FindWrapAtomic.cmake:36 (check_cxx_source_compiles)"
+      - "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeFindDependencyMacro.cmake:93 (find_package)"
+      - "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeFindDependencyMacro.cmake:125 (__find_dependency_common)"
+      - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6/QtPublicDependencyHelpers.cmake:36 (find_dependency)"
+      - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6Core/Qt6CoreDependencies.cmake:36 (_qt_internal_find_third_party_dependencies)"
+      - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6Core/Qt6CoreConfig.cmake:42 (include)"
+      - "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeFindDependencyMacro.cmake:93 (find_package)"
+      - "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeFindDependencyMacro.cmake:125 (__find_dependency_common)"
+      - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6/QtPublicDependencyHelpers.cmake:142 (find_dependency)"
+      - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6Widgets/Qt6WidgetsDependencies.cmake:50 (_qt_internal_find_qt_dependencies)"
+      - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6Widgets/Qt6WidgetsConfig.cmake:40 (include)"
+      - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6/Qt6Config.cmake:237 (find_package)"
+      - "CMakeLists.txt:10 (find_package)"
+    checks:
+      - "Performing Test HAVE_STDATOMIC"
+    directories:
+      source: "D:/workdir/FlowTrack/FlowTrackDesktop/build/CMakeFiles/CMakeScratch/TryCompile-fv4x9c"
+      binary: "D:/workdir/FlowTrack/FlowTrackDesktop/build/CMakeFiles/CMakeScratch/TryCompile-fv4x9c"
+    cmakeVariables:
+      CMAKE_CXX_FLAGS: ""
+      CMAKE_CXX_FLAGS_DEBUG: "-DQT_QML_DEBUG -DQT_DECLARATIVE_DEBUG -g"
+      CMAKE_EXE_LINKER_FLAGS: ""
+      CMAKE_MODULE_PATH: "c:/Qt/6.10.1/mingw_64/lib/cmake/Qt6/platforms;C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6;C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6/3rdparty/extra-cmake-modules/find-modules;C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6/3rdparty/kwin"
+      QT_ADDITIONAL_PACKAGES_PREFIX_PATH: ""
+      QT_CHAINLOAD_TOOLCHAIN_FILE: ""
+      QT_TOOLCHAIN_INCLUDE_FILE: ""
+      QT_TOOLCHAIN_RELOCATABLE_CMAKE_DIR: "C:/Qt/6.10.1/mingw_64/lib/cmake"
+      QT_TOOLCHAIN_RELOCATABLE_PREFIX: ""
+    buildResult:
+      variable: "HAVE_STDATOMIC"
+      cached: true
+      stdout: |
+        Change Dir: 'D:/workdir/FlowTrack/FlowTrackDesktop/build/CMakeFiles/CMakeScratch/TryCompile-fv4x9c'
+        
+        Run Build Command(s): C:/Qt/Tools/Ninja/ninja.exe -v cmTC_c6ec9
+        [1/2] c:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DHAVE_STDATOMIC  -std=gnu++17 -o CMakeFiles/cmTC_c6ec9.dir/src.cxx.obj -c D:/workdir/FlowTrack/FlowTrackDesktop/build/CMakeFiles/CMakeScratch/TryCompile-fv4x9c/src.cxx
+        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && c:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe   CMakeFiles/cmTC_c6ec9.dir/src.cxx.obj -o cmTC_c6ec9.exe -Wl,--out-implib,libcmTC_c6ec9.dll.a -Wl,--major-image-version,0,--minor-image-version,0  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 && cd ."
+        
+      exitCode: 0
   -
     kind: "find_package-v1"
     backtrace:
@@ -4399,6 +4576,11 @@ events:
       - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6/QtPublicDependencyHelpers.cmake:142 (find_dependency)"
       - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6Core/Qt6CoreDependencies.cmake:51 (_qt_internal_find_qt_dependencies)"
       - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6Core/Qt6CoreConfig.cmake:42 (include)"
+      - "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeFindDependencyMacro.cmake:93 (find_package)"
+      - "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeFindDependencyMacro.cmake:125 (__find_dependency_common)"
+      - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6/QtPublicDependencyHelpers.cmake:142 (find_dependency)"
+      - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6Widgets/Qt6WidgetsDependencies.cmake:50 (_qt_internal_find_qt_dependencies)"
+      - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6Widgets/Qt6WidgetsConfig.cmake:40 (include)"
       - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6/Qt6Config.cmake:237 (find_package)"
       - "CMakeLists.txt:10 (find_package)"
     name: "Qt6EntryPointPrivate"
@@ -4469,12 +4651,12 @@ events:
         - "C:/Qt/6.10.1/mingw_64/bin"
         - "c:\\Qt\\Tools\\Ninja"
         - "c:\\Qt\\Tools\\mingw1310_64\\bin"
-      CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/FlowTrack"
+      CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/flowTrack"
       CMAKE_SYSTEM_PREFIX_PATH:
         - "C:/Program Files"
         - "C:/Program Files (x86)"
         - "C:/Program Files/CMake"
-        - "C:/Program Files (x86)/FlowTrack"
+        - "C:/Program Files (x86)/flowTrack"
       CMAKE_FIND_ROOT_PATH: "C:/Qt/6.10.1/mingw_64;C:/Qt/6.10.1/mingw_64"
   -
     kind: "find-v1"
@@ -4482,6 +4664,11 @@ events:
       - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6Core/Qt6CoreMacros.cmake:3135 (find_program)"
       - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6Core/Qt6CoreConfigExtras.cmake:30 (_qt_internal_setup_deploy_support)"
       - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6Core/Qt6CoreConfig.cmake:190 (include)"
+      - "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeFindDependencyMacro.cmake:93 (find_package)"
+      - "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeFindDependencyMacro.cmake:125 (__find_dependency_common)"
+      - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6/QtPublicDependencyHelpers.cmake:142 (find_dependency)"
+      - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6Widgets/Qt6WidgetsDependencies.cmake:50 (_qt_internal_find_qt_dependencies)"
+      - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6Widgets/Qt6WidgetsConfig.cmake:40 (include)"
       - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6/Qt6Config.cmake:237 (find_package)"
       - "CMakeLists.txt:10 (find_package)"
     mode: "program"
@@ -4523,9 +4710,9 @@ events:
       - "C:/Qt/6.10.1/mingw_64/Program Files/CMake/bin/"
       - "C:/Qt/6.10.1/mingw_64/Program Files/CMake/sbin/"
       - "C:/Qt/6.10.1/mingw_64/Program Files/CMake/"
-      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/FlowTrack/bin/"
-      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/FlowTrack/sbin/"
-      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/FlowTrack/"
+      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/flowTrack/bin/"
+      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/flowTrack/sbin/"
+      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/flowTrack/"
       - "C:/Qt/6.10.1/mingw_64/lib/cmake/bin/"
       - "C:/Qt/6.10.1/mingw_64/lib/cmake/sbin/"
       - "C:/Qt/6.10.1/mingw_64/lib/cmake/"
@@ -4551,9 +4738,9 @@ events:
       - "C:/Qt/6.10.1/mingw_64/Program Files/CMake/bin/"
       - "C:/Qt/6.10.1/mingw_64/Program Files/CMake/sbin/"
       - "C:/Qt/6.10.1/mingw_64/Program Files/CMake/"
-      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/FlowTrack/bin/"
-      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/FlowTrack/sbin/"
-      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/FlowTrack/"
+      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/flowTrack/bin/"
+      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/flowTrack/sbin/"
+      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/flowTrack/"
       - "C:/Qt/6.10.1/mingw_64/lib/cmake/bin/"
       - "C:/Qt/6.10.1/mingw_64/lib/cmake/sbin/"
       - "C:/Qt/6.10.1/mingw_64/lib/cmake/"
@@ -4579,9 +4766,9 @@ events:
       - "C:/Program Files/CMake/bin/"
       - "C:/Program Files/CMake/sbin/"
       - "C:/Program Files/CMake/"
-      - "C:/Program Files (x86)/FlowTrack/bin/"
-      - "C:/Program Files (x86)/FlowTrack/sbin/"
-      - "C:/Program Files (x86)/FlowTrack/"
+      - "C:/Program Files (x86)/flowTrack/bin/"
+      - "C:/Program Files (x86)/flowTrack/sbin/"
+      - "C:/Program Files (x86)/flowTrack/"
     searched_directories:
       - "C:/Qt/6.10.1/mingw_64/lib/cmake/bin/windeployqt.com"
       - "C:/Qt/6.10.1/mingw_64/lib/cmake/bin/windeployqt.exe"
@@ -4614,16 +4801,21 @@ events:
         - "C:/Qt/6.10.1/mingw_64/bin"
         - "c:\\Qt\\Tools\\Ninja"
         - "c:\\Qt\\Tools\\mingw1310_64\\bin"
-      CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/FlowTrack"
+      CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/flowTrack"
       CMAKE_SYSTEM_PREFIX_PATH:
         - "C:/Program Files"
         - "C:/Program Files (x86)"
         - "C:/Program Files/CMake"
-        - "C:/Program Files (x86)/FlowTrack"
+        - "C:/Program Files (x86)/flowTrack"
       CMAKE_FIND_ROOT_PATH: "C:/Qt/6.10.1/mingw_64;C:/Qt/6.10.1/mingw_64"
   -
     kind: "find_package-v1"
     backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeFindDependencyMacro.cmake:93 (find_package)"
+      - "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeFindDependencyMacro.cmake:125 (__find_dependency_common)"
+      - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6/QtPublicDependencyHelpers.cmake:142 (find_dependency)"
+      - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6Widgets/Qt6WidgetsDependencies.cmake:50 (_qt_internal_find_qt_dependencies)"
+      - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6Widgets/Qt6WidgetsConfig.cmake:40 (include)"
       - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6/Qt6Config.cmake:237 (find_package)"
       - "CMakeLists.txt:10 (find_package)"
     name: "Qt6Core"
@@ -4635,6 +4827,8 @@ events:
         filename: "qt6core-config.cmake"
         kind: "cmake"
     version_request:
+      version: "6.10.1"
+      version_complete: "6.10.1"
       exact: false
     settings:
       required: "optional"
@@ -4645,6 +4839,7 @@ events:
       names:
         - "Qt6Core"
       search_paths:
+        - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6Widgets/.."
         - "C:/Qt/6.10.1/mingw_64/lib/cmake"
       path_suffixes:
         - ""
@@ -4707,12 +4902,12 @@ events:
         - "C:/Qt/6.10.1/mingw_64/bin"
         - "c:\\Qt\\Tools\\Ninja"
         - "c:\\Qt\\Tools\\mingw1310_64\\bin"
-      CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/FlowTrack"
+      CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/flowTrack"
       CMAKE_SYSTEM_PREFIX_PATH:
         - "C:/Program Files"
         - "C:/Program Files (x86)"
         - "C:/Program Files/CMake"
-        - "C:/Program Files (x86)/FlowTrack"
+        - "C:/Program Files (x86)/flowTrack"
       CMAKE_FIND_ROOT_PATH: "C:/Qt/6.10.1/mingw_64;C:/Qt/6.10.1/mingw_64"
   -
     kind: "find-v1"
@@ -4722,6 +4917,11 @@ events:
       - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6/QtPublicDependencyHelpers.cmake:34 (find_package)"
       - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6Gui/Qt6GuiDependencies.cmake:36 (_qt_internal_find_third_party_dependencies)"
       - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6Gui/Qt6GuiConfig.cmake:40 (include)"
+      - "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeFindDependencyMacro.cmake:93 (find_package)"
+      - "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeFindDependencyMacro.cmake:125 (__find_dependency_common)"
+      - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6/QtPublicDependencyHelpers.cmake:142 (find_dependency)"
+      - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6Widgets/Qt6WidgetsDependencies.cmake:50 (_qt_internal_find_qt_dependencies)"
+      - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6Widgets/Qt6WidgetsConfig.cmake:40 (include)"
       - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6/Qt6Config.cmake:237 (find_package)"
       - "CMakeLists.txt:10 (find_package)"
     mode: "path"
@@ -4760,8 +4960,8 @@ events:
       - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/"
       - "C:/Qt/6.10.1/mingw_64/Program Files/CMake/include/"
       - "C:/Qt/6.10.1/mingw_64/Program Files/CMake/"
-      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/FlowTrack/include/"
-      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/FlowTrack/"
+      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/flowTrack/include/"
+      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/flowTrack/"
       - "C:/Qt/6.10.1/mingw_64/lib/cmake/include/"
       - "C:/Qt/6.10.1/mingw_64/lib/cmake/"
       - "C:/Qt/6.10.1/mingw_64/include/"
@@ -4784,8 +4984,8 @@ events:
       - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/"
       - "C:/Qt/6.10.1/mingw_64/Program Files/CMake/include/"
       - "C:/Qt/6.10.1/mingw_64/Program Files/CMake/"
-      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/FlowTrack/include/"
-      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/FlowTrack/"
+      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/flowTrack/include/"
+      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/flowTrack/"
       - "C:/Qt/6.10.1/mingw_64/lib/cmake/include/"
       - "C:/Qt/6.10.1/mingw_64/lib/cmake/"
       - "/include/"
@@ -4808,8 +5008,8 @@ events:
       - "C:/Program Files (x86)/"
       - "C:/Program Files/CMake/include/"
       - "C:/Program Files/CMake/"
-      - "C:/Program Files (x86)/FlowTrack/include/"
-      - "C:/Program Files (x86)/FlowTrack/"
+      - "C:/Program Files (x86)/flowTrack/include/"
+      - "C:/Program Files (x86)/flowTrack/"
     searched_directories:
       - "C:/Qt/6.10.1/mingw_64/lib/cmake/include/vulkan/vulkan.h"
       - "C:/Qt/6.10.1/mingw_64/lib/cmake/vulkan/vulkan.h"
@@ -4833,8 +5033,8 @@ events:
       - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/vulkan/vulkan.h"
       - "C:/Qt/6.10.1/mingw_64/Program Files/CMake/include/vulkan/vulkan.h"
       - "C:/Qt/6.10.1/mingw_64/Program Files/CMake/vulkan/vulkan.h"
-      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/FlowTrack/include/vulkan/vulkan.h"
-      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/FlowTrack/vulkan/vulkan.h"
+      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/flowTrack/include/vulkan/vulkan.h"
+      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/flowTrack/vulkan/vulkan.h"
       - "C:/Qt/6.10.1/mingw_64/lib/cmake/include/vulkan/vulkan.h"
       - "C:/Qt/6.10.1/mingw_64/lib/cmake/vulkan/vulkan.h"
       - "C:/Qt/6.10.1/mingw_64/include/vulkan/vulkan.h"
@@ -4857,8 +5057,8 @@ events:
       - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/vulkan/vulkan.h"
       - "C:/Qt/6.10.1/mingw_64/Program Files/CMake/include/vulkan/vulkan.h"
       - "C:/Qt/6.10.1/mingw_64/Program Files/CMake/vulkan/vulkan.h"
-      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/FlowTrack/include/vulkan/vulkan.h"
-      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/FlowTrack/vulkan/vulkan.h"
+      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/flowTrack/include/vulkan/vulkan.h"
+      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/flowTrack/vulkan/vulkan.h"
       - "C:/Qt/6.10.1/mingw_64/lib/cmake/include/vulkan/vulkan.h"
       - "C:/Qt/6.10.1/mingw_64/lib/cmake/vulkan/vulkan.h"
       - "/include/vulkan/vulkan.h"
@@ -4881,8 +5081,8 @@ events:
       - "C:/Program Files (x86)/vulkan/vulkan.h"
       - "C:/Program Files/CMake/include/vulkan/vulkan.h"
       - "C:/Program Files/CMake/vulkan/vulkan.h"
-      - "C:/Program Files (x86)/FlowTrack/include/vulkan/vulkan.h"
-      - "C:/Program Files (x86)/FlowTrack/vulkan/vulkan.h"
+      - "C:/Program Files (x86)/flowTrack/include/vulkan/vulkan.h"
+      - "C:/Program Files (x86)/flowTrack/vulkan/vulkan.h"
     found: false
     search_context:
       CMAKE_PREFIX_PATH:
@@ -4904,12 +5104,12 @@ events:
         - "C:/Qt/6.10.1/mingw_64/bin"
         - "c:\\Qt\\Tools\\Ninja"
         - "c:\\Qt\\Tools\\mingw1310_64\\bin"
-      CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/FlowTrack"
+      CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/flowTrack"
       CMAKE_SYSTEM_PREFIX_PATH:
         - "C:/Program Files"
         - "C:/Program Files (x86)"
         - "C:/Program Files/CMake"
-        - "C:/Program Files (x86)/FlowTrack"
+        - "C:/Program Files (x86)/flowTrack"
       CMAKE_FIND_ROOT_PATH: "C:/Qt/6.10.1/mingw_64;C:/Qt/6.10.1/mingw_64"
   -
     kind: "find-v1"
@@ -4919,6 +5119,11 @@ events:
       - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6/QtPublicDependencyHelpers.cmake:34 (find_package)"
       - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6Gui/Qt6GuiDependencies.cmake:36 (_qt_internal_find_third_party_dependencies)"
       - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6Gui/Qt6GuiConfig.cmake:40 (include)"
+      - "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeFindDependencyMacro.cmake:93 (find_package)"
+      - "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeFindDependencyMacro.cmake:125 (__find_dependency_common)"
+      - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6/QtPublicDependencyHelpers.cmake:142 (find_dependency)"
+      - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6Widgets/Qt6WidgetsDependencies.cmake:50 (_qt_internal_find_qt_dependencies)"
+      - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6Widgets/Qt6WidgetsConfig.cmake:40 (include)"
       - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6/Qt6Config.cmake:237 (find_package)"
       - "CMakeLists.txt:10 (find_package)"
     mode: "library"
@@ -4958,9 +5163,9 @@ events:
       - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/"
       - "C:/Qt/6.10.1/mingw_64/Program Files/CMake/lib/"
       - "C:/Qt/6.10.1/mingw_64/Program Files/CMake/"
-      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/FlowTrack/lib/"
-      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/FlowTrack/"
-      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/FlowTrack/bin/"
+      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/flowTrack/lib/"
+      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/flowTrack/"
+      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/flowTrack/bin/"
       - "C:/Qt/6.10.1/mingw_64/lib/cmake/lib/"
       - "C:/Qt/6.10.1/mingw_64/lib/cmake/"
       - "C:/Qt/6.10.1/mingw_64/lib/"
@@ -4984,9 +5189,9 @@ events:
       - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/"
       - "C:/Qt/6.10.1/mingw_64/Program Files/CMake/lib/"
       - "C:/Qt/6.10.1/mingw_64/Program Files/CMake/"
-      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/FlowTrack/lib/"
-      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/FlowTrack/"
-      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/FlowTrack/bin/"
+      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/flowTrack/lib/"
+      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/flowTrack/"
+      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/flowTrack/bin/"
       - "C:/Qt/6.10.1/mingw_64/lib/cmake/lib/"
       - "C:/Qt/6.10.1/mingw_64/lib/cmake/"
       - "/lib/"
@@ -5010,9 +5215,9 @@ events:
       - "C:/Program Files (x86)/"
       - "C:/Program Files/CMake/lib/"
       - "C:/Program Files/CMake/"
-      - "C:/Program Files (x86)/FlowTrack/lib/"
-      - "C:/Program Files (x86)/FlowTrack/"
-      - "C:/Program Files (x86)/FlowTrack/bin/"
+      - "C:/Program Files (x86)/flowTrack/lib/"
+      - "C:/Program Files (x86)/flowTrack/"
+      - "C:/Program Files (x86)/flowTrack/bin/"
     searched_directories:
       - "C:/Qt/6.10.1/mingw_64/lib/cmake/lib/"
       - "C:/Qt/6.10.1/mingw_64/lib/cmake/"
@@ -5037,9 +5242,9 @@ events:
       - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/"
       - "C:/Qt/6.10.1/mingw_64/Program Files/CMake/lib/"
       - "C:/Qt/6.10.1/mingw_64/Program Files/CMake/"
-      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/FlowTrack/lib/"
-      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/FlowTrack/"
-      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/FlowTrack/bin/"
+      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/flowTrack/lib/"
+      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/flowTrack/"
+      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/flowTrack/bin/"
       - "C:/Qt/6.10.1/mingw_64/lib/cmake/lib/"
       - "C:/Qt/6.10.1/mingw_64/lib/cmake/"
       - "C:/Qt/6.10.1/mingw_64/lib/"
@@ -5063,9 +5268,9 @@ events:
       - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/"
       - "C:/Qt/6.10.1/mingw_64/Program Files/CMake/lib/"
       - "C:/Qt/6.10.1/mingw_64/Program Files/CMake/"
-      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/FlowTrack/lib/"
-      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/FlowTrack/"
-      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/FlowTrack/bin/"
+      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/flowTrack/lib/"
+      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/flowTrack/"
+      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/flowTrack/bin/"
       - "C:/Qt/6.10.1/mingw_64/lib/cmake/lib/"
       - "C:/Qt/6.10.1/mingw_64/lib/cmake/"
       - "/lib/"
@@ -5089,9 +5294,9 @@ events:
       - "C:/Program Files (x86)/"
       - "C:/Program Files/CMake/lib/"
       - "C:/Program Files/CMake/"
-      - "C:/Program Files (x86)/FlowTrack/lib/"
-      - "C:/Program Files (x86)/FlowTrack/"
-      - "C:/Program Files (x86)/FlowTrack/bin/"
+      - "C:/Program Files (x86)/flowTrack/lib/"
+      - "C:/Program Files (x86)/flowTrack/"
+      - "C:/Program Files (x86)/flowTrack/bin/"
     found: false
     search_context:
       CMAKE_PREFIX_PATH:
@@ -5113,14 +5318,14 @@ events:
         - "C:/Qt/6.10.1/mingw_64/bin"
         - "c:\\Qt\\Tools\\Ninja"
         - "c:\\Qt\\Tools\\mingw1310_64\\bin"
-      CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/FlowTrack"
+      CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/flowTrack"
       CMAKE_SYSTEM_PREFIX_PATH:
         - "C:/Program Files"
         - "C:/Program Files (x86)"
         - "C:/Program Files/CMake"
-        - "C:/Program Files (x86)/FlowTrack"
+        - "C:/Program Files (x86)/flowTrack"
       CMAKE_SYSTEM_LIBRARY_PATH:
-        - "C:/Program Files (x86)/FlowTrack/bin"
+        - "C:/Program Files (x86)/flowTrack/bin"
         - "C:/Program Files/CMake/bin"
         - "/bin"
       CMAKE_FIND_ROOT_PATH: "C:/Qt/6.10.1/mingw_64;C:/Qt/6.10.1/mingw_64"
@@ -5132,6 +5337,11 @@ events:
       - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6/QtPublicDependencyHelpers.cmake:34 (find_package)"
       - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6Gui/Qt6GuiDependencies.cmake:36 (_qt_internal_find_third_party_dependencies)"
       - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6Gui/Qt6GuiConfig.cmake:40 (include)"
+      - "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeFindDependencyMacro.cmake:93 (find_package)"
+      - "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeFindDependencyMacro.cmake:125 (__find_dependency_common)"
+      - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6/QtPublicDependencyHelpers.cmake:142 (find_dependency)"
+      - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6Widgets/Qt6WidgetsDependencies.cmake:50 (_qt_internal_find_qt_dependencies)"
+      - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6Widgets/Qt6WidgetsConfig.cmake:40 (include)"
       - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6/Qt6Config.cmake:237 (find_package)"
       - "CMakeLists.txt:10 (find_package)"
     mode: "program"
@@ -5174,9 +5384,9 @@ events:
       - "C:/Qt/6.10.1/mingw_64/Program Files/CMake/bin/"
       - "C:/Qt/6.10.1/mingw_64/Program Files/CMake/sbin/"
       - "C:/Qt/6.10.1/mingw_64/Program Files/CMake/"
-      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/FlowTrack/bin/"
-      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/FlowTrack/sbin/"
-      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/FlowTrack/"
+      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/flowTrack/bin/"
+      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/flowTrack/sbin/"
+      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/flowTrack/"
       - "C:/Qt/6.10.1/mingw_64/lib/cmake/bin/"
       - "C:/Qt/6.10.1/mingw_64/lib/cmake/sbin/"
       - "C:/Qt/6.10.1/mingw_64/lib/cmake/"
@@ -5203,9 +5413,9 @@ events:
       - "C:/Qt/6.10.1/mingw_64/Program Files/CMake/bin/"
       - "C:/Qt/6.10.1/mingw_64/Program Files/CMake/sbin/"
       - "C:/Qt/6.10.1/mingw_64/Program Files/CMake/"
-      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/FlowTrack/bin/"
-      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/FlowTrack/sbin/"
-      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/FlowTrack/"
+      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/flowTrack/bin/"
+      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/flowTrack/sbin/"
+      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/flowTrack/"
       - "C:/Qt/6.10.1/mingw_64/lib/cmake/bin/"
       - "C:/Qt/6.10.1/mingw_64/lib/cmake/sbin/"
       - "C:/Qt/6.10.1/mingw_64/lib/cmake/"
@@ -5232,9 +5442,9 @@ events:
       - "C:/Program Files/CMake/bin/"
       - "C:/Program Files/CMake/sbin/"
       - "C:/Program Files/CMake/"
-      - "C:/Program Files (x86)/FlowTrack/bin/"
-      - "C:/Program Files (x86)/FlowTrack/sbin/"
-      - "C:/Program Files (x86)/FlowTrack/"
+      - "C:/Program Files (x86)/flowTrack/bin/"
+      - "C:/Program Files (x86)/flowTrack/sbin/"
+      - "C:/Program Files (x86)/flowTrack/"
     searched_directories:
       - "C:/Qt/6.10.1/mingw_64/lib/cmake/bin/glslc.com"
       - "C:/Qt/6.10.1/mingw_64/lib/cmake/bin/glslc.exe"
@@ -5314,15 +5524,15 @@ events:
       - "C:/Qt/6.10.1/mingw_64/Program Files/CMake/glslc.com"
       - "C:/Qt/6.10.1/mingw_64/Program Files/CMake/glslc.exe"
       - "C:/Qt/6.10.1/mingw_64/Program Files/CMake/glslc"
-      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/FlowTrack/bin/glslc.com"
-      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/FlowTrack/bin/glslc.exe"
-      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/FlowTrack/bin/glslc"
-      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/FlowTrack/sbin/glslc.com"
-      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/FlowTrack/sbin/glslc.exe"
-      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/FlowTrack/sbin/glslc"
-      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/FlowTrack/glslc.com"
-      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/FlowTrack/glslc.exe"
-      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/FlowTrack/glslc"
+      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/flowTrack/bin/glslc.com"
+      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/flowTrack/bin/glslc.exe"
+      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/flowTrack/bin/glslc"
+      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/flowTrack/sbin/glslc.com"
+      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/flowTrack/sbin/glslc.exe"
+      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/flowTrack/sbin/glslc"
+      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/flowTrack/glslc.com"
+      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/flowTrack/glslc.exe"
+      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/flowTrack/glslc"
       - "C:/Qt/6.10.1/mingw_64/lib/cmake/bin/glslc.com"
       - "C:/Qt/6.10.1/mingw_64/lib/cmake/bin/glslc.exe"
       - "C:/Qt/6.10.1/mingw_64/lib/cmake/bin/glslc"
@@ -5401,15 +5611,15 @@ events:
       - "C:/Qt/6.10.1/mingw_64/Program Files/CMake/glslc.com"
       - "C:/Qt/6.10.1/mingw_64/Program Files/CMake/glslc.exe"
       - "C:/Qt/6.10.1/mingw_64/Program Files/CMake/glslc"
-      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/FlowTrack/bin/glslc.com"
-      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/FlowTrack/bin/glslc.exe"
-      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/FlowTrack/bin/glslc"
-      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/FlowTrack/sbin/glslc.com"
-      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/FlowTrack/sbin/glslc.exe"
-      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/FlowTrack/sbin/glslc"
-      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/FlowTrack/glslc.com"
-      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/FlowTrack/glslc.exe"
-      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/FlowTrack/glslc"
+      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/flowTrack/bin/glslc.com"
+      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/flowTrack/bin/glslc.exe"
+      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/flowTrack/bin/glslc"
+      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/flowTrack/sbin/glslc.com"
+      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/flowTrack/sbin/glslc.exe"
+      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/flowTrack/sbin/glslc"
+      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/flowTrack/glslc.com"
+      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/flowTrack/glslc.exe"
+      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/flowTrack/glslc"
       - "C:/Qt/6.10.1/mingw_64/lib/cmake/bin/glslc.com"
       - "C:/Qt/6.10.1/mingw_64/lib/cmake/bin/glslc.exe"
       - "C:/Qt/6.10.1/mingw_64/lib/cmake/bin/glslc"
@@ -5488,15 +5698,15 @@ events:
       - "C:/Program Files/CMake/glslc.com"
       - "C:/Program Files/CMake/glslc.exe"
       - "C:/Program Files/CMake/glslc"
-      - "C:/Program Files (x86)/FlowTrack/bin/glslc.com"
-      - "C:/Program Files (x86)/FlowTrack/bin/glslc.exe"
-      - "C:/Program Files (x86)/FlowTrack/bin/glslc"
-      - "C:/Program Files (x86)/FlowTrack/sbin/glslc.com"
-      - "C:/Program Files (x86)/FlowTrack/sbin/glslc.exe"
-      - "C:/Program Files (x86)/FlowTrack/sbin/glslc"
-      - "C:/Program Files (x86)/FlowTrack/glslc.com"
-      - "C:/Program Files (x86)/FlowTrack/glslc.exe"
-      - "C:/Program Files (x86)/FlowTrack/glslc"
+      - "C:/Program Files (x86)/flowTrack/bin/glslc.com"
+      - "C:/Program Files (x86)/flowTrack/bin/glslc.exe"
+      - "C:/Program Files (x86)/flowTrack/bin/glslc"
+      - "C:/Program Files (x86)/flowTrack/sbin/glslc.com"
+      - "C:/Program Files (x86)/flowTrack/sbin/glslc.exe"
+      - "C:/Program Files (x86)/flowTrack/sbin/glslc"
+      - "C:/Program Files (x86)/flowTrack/glslc.com"
+      - "C:/Program Files (x86)/flowTrack/glslc.exe"
+      - "C:/Program Files (x86)/flowTrack/glslc"
     found: false
     search_context:
       CMAKE_PREFIX_PATH:
@@ -5518,12 +5728,12 @@ events:
         - "C:/Qt/6.10.1/mingw_64/bin"
         - "c:\\Qt\\Tools\\Ninja"
         - "c:\\Qt\\Tools\\mingw1310_64\\bin"
-      CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/FlowTrack"
+      CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/flowTrack"
       CMAKE_SYSTEM_PREFIX_PATH:
         - "C:/Program Files"
         - "C:/Program Files (x86)"
         - "C:/Program Files/CMake"
-        - "C:/Program Files (x86)/FlowTrack"
+        - "C:/Program Files (x86)/flowTrack"
       CMAKE_FIND_ROOT_PATH: "C:/Qt/6.10.1/mingw_64;C:/Qt/6.10.1/mingw_64"
   -
     kind: "find-v1"
@@ -5533,6 +5743,11 @@ events:
       - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6/QtPublicDependencyHelpers.cmake:34 (find_package)"
       - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6Gui/Qt6GuiDependencies.cmake:36 (_qt_internal_find_third_party_dependencies)"
       - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6Gui/Qt6GuiConfig.cmake:40 (include)"
+      - "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeFindDependencyMacro.cmake:93 (find_package)"
+      - "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeFindDependencyMacro.cmake:125 (__find_dependency_common)"
+      - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6/QtPublicDependencyHelpers.cmake:142 (find_dependency)"
+      - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6Widgets/Qt6WidgetsDependencies.cmake:50 (_qt_internal_find_qt_dependencies)"
+      - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6Widgets/Qt6WidgetsConfig.cmake:40 (include)"
       - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6/Qt6Config.cmake:237 (find_package)"
       - "CMakeLists.txt:10 (find_package)"
     mode: "program"
@@ -5575,9 +5790,9 @@ events:
       - "C:/Qt/6.10.1/mingw_64/Program Files/CMake/bin/"
       - "C:/Qt/6.10.1/mingw_64/Program Files/CMake/sbin/"
       - "C:/Qt/6.10.1/mingw_64/Program Files/CMake/"
-      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/FlowTrack/bin/"
-      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/FlowTrack/sbin/"
-      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/FlowTrack/"
+      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/flowTrack/bin/"
+      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/flowTrack/sbin/"
+      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/flowTrack/"
       - "C:/Qt/6.10.1/mingw_64/lib/cmake/bin/"
       - "C:/Qt/6.10.1/mingw_64/lib/cmake/sbin/"
       - "C:/Qt/6.10.1/mingw_64/lib/cmake/"
@@ -5604,9 +5819,9 @@ events:
       - "C:/Qt/6.10.1/mingw_64/Program Files/CMake/bin/"
       - "C:/Qt/6.10.1/mingw_64/Program Files/CMake/sbin/"
       - "C:/Qt/6.10.1/mingw_64/Program Files/CMake/"
-      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/FlowTrack/bin/"
-      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/FlowTrack/sbin/"
-      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/FlowTrack/"
+      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/flowTrack/bin/"
+      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/flowTrack/sbin/"
+      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/flowTrack/"
       - "C:/Qt/6.10.1/mingw_64/lib/cmake/bin/"
       - "C:/Qt/6.10.1/mingw_64/lib/cmake/sbin/"
       - "C:/Qt/6.10.1/mingw_64/lib/cmake/"
@@ -5633,9 +5848,9 @@ events:
       - "C:/Program Files/CMake/bin/"
       - "C:/Program Files/CMake/sbin/"
       - "C:/Program Files/CMake/"
-      - "C:/Program Files (x86)/FlowTrack/bin/"
-      - "C:/Program Files (x86)/FlowTrack/sbin/"
-      - "C:/Program Files (x86)/FlowTrack/"
+      - "C:/Program Files (x86)/flowTrack/bin/"
+      - "C:/Program Files (x86)/flowTrack/sbin/"
+      - "C:/Program Files (x86)/flowTrack/"
     searched_directories:
       - "C:/Qt/6.10.1/mingw_64/lib/cmake/bin/glslangValidator.com"
       - "C:/Qt/6.10.1/mingw_64/lib/cmake/bin/glslangValidator.exe"
@@ -5715,15 +5930,15 @@ events:
       - "C:/Qt/6.10.1/mingw_64/Program Files/CMake/glslangValidator.com"
       - "C:/Qt/6.10.1/mingw_64/Program Files/CMake/glslangValidator.exe"
       - "C:/Qt/6.10.1/mingw_64/Program Files/CMake/glslangValidator"
-      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/FlowTrack/bin/glslangValidator.com"
-      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/FlowTrack/bin/glslangValidator.exe"
-      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/FlowTrack/bin/glslangValidator"
-      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/FlowTrack/sbin/glslangValidator.com"
-      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/FlowTrack/sbin/glslangValidator.exe"
-      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/FlowTrack/sbin/glslangValidator"
-      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/FlowTrack/glslangValidator.com"
-      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/FlowTrack/glslangValidator.exe"
-      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/FlowTrack/glslangValidator"
+      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/flowTrack/bin/glslangValidator.com"
+      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/flowTrack/bin/glslangValidator.exe"
+      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/flowTrack/bin/glslangValidator"
+      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/flowTrack/sbin/glslangValidator.com"
+      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/flowTrack/sbin/glslangValidator.exe"
+      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/flowTrack/sbin/glslangValidator"
+      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/flowTrack/glslangValidator.com"
+      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/flowTrack/glslangValidator.exe"
+      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/flowTrack/glslangValidator"
       - "C:/Qt/6.10.1/mingw_64/lib/cmake/bin/glslangValidator.com"
       - "C:/Qt/6.10.1/mingw_64/lib/cmake/bin/glslangValidator.exe"
       - "C:/Qt/6.10.1/mingw_64/lib/cmake/bin/glslangValidator"
@@ -5802,15 +6017,15 @@ events:
       - "C:/Qt/6.10.1/mingw_64/Program Files/CMake/glslangValidator.com"
       - "C:/Qt/6.10.1/mingw_64/Program Files/CMake/glslangValidator.exe"
       - "C:/Qt/6.10.1/mingw_64/Program Files/CMake/glslangValidator"
-      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/FlowTrack/bin/glslangValidator.com"
-      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/FlowTrack/bin/glslangValidator.exe"
-      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/FlowTrack/bin/glslangValidator"
-      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/FlowTrack/sbin/glslangValidator.com"
-      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/FlowTrack/sbin/glslangValidator.exe"
-      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/FlowTrack/sbin/glslangValidator"
-      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/FlowTrack/glslangValidator.com"
-      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/FlowTrack/glslangValidator.exe"
-      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/FlowTrack/glslangValidator"
+      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/flowTrack/bin/glslangValidator.com"
+      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/flowTrack/bin/glslangValidator.exe"
+      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/flowTrack/bin/glslangValidator"
+      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/flowTrack/sbin/glslangValidator.com"
+      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/flowTrack/sbin/glslangValidator.exe"
+      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/flowTrack/sbin/glslangValidator"
+      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/flowTrack/glslangValidator.com"
+      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/flowTrack/glslangValidator.exe"
+      - "C:/Qt/6.10.1/mingw_64/Program Files (x86)/flowTrack/glslangValidator"
       - "C:/Qt/6.10.1/mingw_64/lib/cmake/bin/glslangValidator.com"
       - "C:/Qt/6.10.1/mingw_64/lib/cmake/bin/glslangValidator.exe"
       - "C:/Qt/6.10.1/mingw_64/lib/cmake/bin/glslangValidator"
@@ -5889,15 +6104,15 @@ events:
       - "C:/Program Files/CMake/glslangValidator.com"
       - "C:/Program Files/CMake/glslangValidator.exe"
       - "C:/Program Files/CMake/glslangValidator"
-      - "C:/Program Files (x86)/FlowTrack/bin/glslangValidator.com"
-      - "C:/Program Files (x86)/FlowTrack/bin/glslangValidator.exe"
-      - "C:/Program Files (x86)/FlowTrack/bin/glslangValidator"
-      - "C:/Program Files (x86)/FlowTrack/sbin/glslangValidator.com"
-      - "C:/Program Files (x86)/FlowTrack/sbin/glslangValidator.exe"
-      - "C:/Program Files (x86)/FlowTrack/sbin/glslangValidator"
-      - "C:/Program Files (x86)/FlowTrack/glslangValidator.com"
-      - "C:/Program Files (x86)/FlowTrack/glslangValidator.exe"
-      - "C:/Program Files (x86)/FlowTrack/glslangValidator"
+      - "C:/Program Files (x86)/flowTrack/bin/glslangValidator.com"
+      - "C:/Program Files (x86)/flowTrack/bin/glslangValidator.exe"
+      - "C:/Program Files (x86)/flowTrack/bin/glslangValidator"
+      - "C:/Program Files (x86)/flowTrack/sbin/glslangValidator.com"
+      - "C:/Program Files (x86)/flowTrack/sbin/glslangValidator.exe"
+      - "C:/Program Files (x86)/flowTrack/sbin/glslangValidator"
+      - "C:/Program Files (x86)/flowTrack/glslangValidator.com"
+      - "C:/Program Files (x86)/flowTrack/glslangValidator.exe"
+      - "C:/Program Files (x86)/flowTrack/glslangValidator"
     found: false
     search_context:
       CMAKE_PREFIX_PATH:
@@ -5919,28 +6134,30 @@ events:
         - "C:/Qt/6.10.1/mingw_64/bin"
         - "c:\\Qt\\Tools\\Ninja"
         - "c:\\Qt\\Tools\\mingw1310_64\\bin"
-      CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/FlowTrack"
+      CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/flowTrack"
       CMAKE_SYSTEM_PREFIX_PATH:
         - "C:/Program Files"
         - "C:/Program Files (x86)"
         - "C:/Program Files/CMake"
-        - "C:/Program Files (x86)/FlowTrack"
+        - "C:/Program Files (x86)/flowTrack"
       CMAKE_FIND_ROOT_PATH: "C:/Qt/6.10.1/mingw_64;C:/Qt/6.10.1/mingw_64"
   -
     kind: "find_package-v1"
     backtrace:
-      - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6/QtPublicDependencyHelpers.cmake:100 (find_package)"
-      - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6Gui/Qt6GuiDependencies.cmake:43 (_qt_internal_find_tool_dependencies)"
-      - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6Gui/Qt6GuiConfig.cmake:40 (include)"
+      - "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeFindDependencyMacro.cmake:93 (find_package)"
+      - "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeFindDependencyMacro.cmake:125 (__find_dependency_common)"
+      - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6/QtPublicDependencyHelpers.cmake:142 (find_dependency)"
+      - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6Widgets/Qt6WidgetsDependencies.cmake:50 (_qt_internal_find_qt_dependencies)"
+      - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6Widgets/Qt6WidgetsConfig.cmake:40 (include)"
       - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6/Qt6Config.cmake:237 (find_package)"
       - "CMakeLists.txt:10 (find_package)"
-    name: "Qt6GuiTools"
+    name: "Qt6Gui"
     configs:
       -
-        filename: "Qt6GuiToolsConfig.cmake"
+        filename: "Qt6GuiConfig.cmake"
         kind: "cmake"
       -
-        filename: "qt6guitools-config.cmake"
+        filename: "qt6gui-config.cmake"
         kind: "cmake"
     version_request:
       version: "6.10.1"
@@ -5953,86 +6170,9 @@ events:
       policy_scope: true
       bypass_provider: false
       names:
-        - "Qt6GuiTools"
-      search_paths:
-        - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6Gui/.."
-        - "C:/Qt/6.10.1/mingw_64/lib/cmake"
-      path_suffixes:
-        - ""
-      paths:
-        CMAKE_FIND_USE_CMAKE_PATH: true
-        CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: true
-        CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
-        CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
-        CMAKE_FIND_USE_INSTALL_PREFIX: true
-        CMAKE_FIND_USE_PACKAGE_ROOT_PATH: true
-        CMAKE_FIND_USE_CMAKE_PACKAGE_REGISTRY: true
-        CMAKE_FIND_USE_SYSTEM_PACKAGE_REGISTRY: true
-        CMAKE_FIND_ROOT_PATH_MODE: "BOTH"
-    candidates:
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6GuiToolsConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/qt6guitools-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-    found:
-      path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6GuiTools/Qt6GuiToolsConfig.cmake"
-      mode: "config"
-      version: "6.10.1"
-    search_context:
-      CMAKE_PREFIX_PATH:
-        - "C:/Qt/6.10.1/mingw_64/lib/cmake"
-        - "C:/Qt/6.10.1/mingw_64/lib/cmake"
-      ENV{PATH}:
-        - "c:\\Qt\\Tools\\mingw1310_64\\bin"
-        - "c:\\Qt\\6.10.1\\mingw_64\\bin"
-        - "C:/Program Files/Common Files/Oracle/Java/javapath"
-        - "C:\\WINDOWS\\system32"
-        - "C:/WINDOWS"
-        - "C:\\WINDOWS\\System32\\Wbem"
-        - "C:/WINDOWS/System32/WindowsPowerShell/v1.0/"
-        - "C:\\WINDOWS\\System32\\OpenSSH\\"
-        - "C:/Program Files/Git/cmd"
-        - "C:\\Program Files\\CMake\\bin"
-        - "C:/Users/anura/AppData/Local/Microsoft/WindowsApps"
-        - "C:\\Users\\anura\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
-        - "C:/Qt/6.10.1/mingw_64/bin"
-        - "c:\\Qt\\Tools\\Ninja"
-        - "c:\\Qt\\Tools\\mingw1310_64\\bin"
-      CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/FlowTrack"
-      CMAKE_SYSTEM_PREFIX_PATH:
-        - "C:/Program Files"
-        - "C:/Program Files (x86)"
-        - "C:/Program Files/CMake"
-        - "C:/Program Files (x86)/FlowTrack"
-      CMAKE_FIND_ROOT_PATH: "C:/Qt/6.10.1/mingw_64;C:/Qt/6.10.1/mingw_64"
-  -
-    kind: "find_package-v1"
-    backtrace:
-      - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6/Qt6Config.cmake:237 (find_package)"
-      - "CMakeLists.txt:10 (find_package)"
-    name: "Qt6Gui"
-    configs:
-      -
-        filename: "Qt6GuiConfig.cmake"
-        kind: "cmake"
-      -
-        filename: "qt6gui-config.cmake"
-        kind: "cmake"
-    version_request:
-      exact: false
-    settings:
-      required: "optional"
-      quiet: false
-      global: false
-      policy_scope: true
-      bypass_provider: false
-      names:
         - "Qt6Gui"
       search_paths:
+        - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6Widgets/.."
         - "C:/Qt/6.10.1/mingw_64/lib/cmake"
       path_suffixes:
         - ""
@@ -6095,817 +6235,25 @@ events:
         - "C:/Qt/6.10.1/mingw_64/bin"
         - "c:\\Qt\\Tools\\Ninja"
         - "c:\\Qt\\Tools\\mingw1310_64\\bin"
-      CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/FlowTrack"
+      CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/flowTrack"
       CMAKE_SYSTEM_PREFIX_PATH:
         - "C:/Program Files"
         - "C:/Program Files (x86)"
         - "C:/Program Files/CMake"
-        - "C:/Program Files (x86)/FlowTrack"
-      CMAKE_FIND_ROOT_PATH: "C:/Qt/6.10.1/mingw_64;C:/Qt/6.10.1/mingw_64"
-  -
-    kind: "find_package-v1"
-    backtrace:
-      - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6/QtPublicDependencyHelpers.cmake:100 (find_package)"
-      - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6Qml/Qt6QmlDependencies.cmake:42 (_qt_internal_find_tool_dependencies)"
-      - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6Qml/Qt6QmlConfig.cmake:43 (include)"
-      - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6/Qt6Config.cmake:237 (find_package)"
-      - "CMakeLists.txt:10 (find_package)"
-    name: "Qt6QmlTools"
-    configs:
-      -
-        filename: "Qt6QmlToolsConfig.cmake"
-        kind: "cmake"
-      -
-        filename: "qt6qmltools-config.cmake"
-        kind: "cmake"
-    version_request:
-      version: "6.10.1"
-      version_complete: "6.10.1"
-      exact: false
-    settings:
-      required: "optional"
-      quiet: false
-      global: false
-      policy_scope: true
-      bypass_provider: false
-      names:
-        - "Qt6QmlTools"
-      search_paths:
-        - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6Qml/.."
-        - "C:/Qt/6.10.1/mingw_64/lib/cmake"
-      path_suffixes:
-        - ""
-      paths:
-        CMAKE_FIND_USE_CMAKE_PATH: true
-        CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: true
-        CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
-        CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
-        CMAKE_FIND_USE_INSTALL_PREFIX: true
-        CMAKE_FIND_USE_PACKAGE_ROOT_PATH: true
-        CMAKE_FIND_USE_CMAKE_PACKAGE_REGISTRY: true
-        CMAKE_FIND_USE_SYSTEM_PACKAGE_REGISTRY: true
-        CMAKE_FIND_ROOT_PATH_MODE: "BOTH"
-    candidates:
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QmlToolsConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/qt6qmltools-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-    found:
-      path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QmlTools/Qt6QmlToolsConfig.cmake"
-      mode: "config"
-      version: "6.10.1"
-    search_context:
-      CMAKE_PREFIX_PATH:
-        - "C:/Qt/6.10.1/mingw_64/lib/cmake"
-        - "C:/Qt/6.10.1/mingw_64/lib/cmake"
-      ENV{PATH}:
-        - "c:\\Qt\\Tools\\mingw1310_64\\bin"
-        - "c:\\Qt\\6.10.1\\mingw_64\\bin"
-        - "C:/Program Files/Common Files/Oracle/Java/javapath"
-        - "C:\\WINDOWS\\system32"
-        - "C:/WINDOWS"
-        - "C:\\WINDOWS\\System32\\Wbem"
-        - "C:/WINDOWS/System32/WindowsPowerShell/v1.0/"
-        - "C:\\WINDOWS\\System32\\OpenSSH\\"
-        - "C:/Program Files/Git/cmd"
-        - "C:\\Program Files\\CMake\\bin"
-        - "C:/Users/anura/AppData/Local/Microsoft/WindowsApps"
-        - "C:\\Users\\anura\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
-        - "C:/Qt/6.10.1/mingw_64/bin"
-        - "c:\\Qt\\Tools\\Ninja"
-        - "c:\\Qt\\Tools\\mingw1310_64\\bin"
-      CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/FlowTrack"
-      CMAKE_SYSTEM_PREFIX_PATH:
-        - "C:/Program Files"
-        - "C:/Program Files (x86)"
-        - "C:/Program Files/CMake"
-        - "C:/Program Files (x86)/FlowTrack"
-      CMAKE_FIND_ROOT_PATH: "C:/Qt/6.10.1/mingw_64;C:/Qt/6.10.1/mingw_64"
-  -
-    kind: "find_package-v1"
-    backtrace:
-      - "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeFindDependencyMacro.cmake:93 (find_package)"
-      - "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeFindDependencyMacro.cmake:125 (__find_dependency_common)"
-      - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6/QtPublicDependencyHelpers.cmake:142 (find_dependency)"
-      - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6Qml/Qt6QmlDependencies.cmake:50 (_qt_internal_find_qt_dependencies)"
-      - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6Qml/Qt6QmlConfig.cmake:43 (include)"
-      - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6/Qt6Config.cmake:237 (find_package)"
-      - "CMakeLists.txt:10 (find_package)"
-    name: "Qt6QmlIntegration"
-    configs:
-      -
-        filename: "Qt6QmlIntegrationConfig.cmake"
-        kind: "cmake"
-      -
-        filename: "qt6qmlintegration-config.cmake"
-        kind: "cmake"
-    version_request:
-      version: "6.10.1"
-      version_complete: "6.10.1"
-      exact: false
-    settings:
-      required: "optional"
-      quiet: false
-      global: false
-      policy_scope: true
-      bypass_provider: false
-      names:
-        - "Qt6QmlIntegration"
-      search_paths:
-        - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6Qml/.."
-        - "C:/Qt/6.10.1/mingw_64/lib/cmake"
-      path_suffixes:
-        - ""
-      paths:
-        CMAKE_FIND_USE_CMAKE_PATH: false
-        CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: true
-        CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
-        CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
-        CMAKE_FIND_USE_INSTALL_PREFIX: true
-        CMAKE_FIND_USE_PACKAGE_ROOT_PATH: true
-        CMAKE_FIND_USE_CMAKE_PACKAGE_REGISTRY: true
-        CMAKE_FIND_USE_SYSTEM_PACKAGE_REGISTRY: true
-        CMAKE_FIND_ROOT_PATH_MODE: "BOTH"
-    candidates:
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QmlIntegrationConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/qt6qmlintegration-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-    found:
-      path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QmlIntegration/Qt6QmlIntegrationConfig.cmake"
-      mode: "config"
-      version: "6.10.1"
-    search_context:
-      CMAKE_PREFIX_PATH:
-        - "C:/Qt/6.10.1/mingw_64/lib/cmake"
-        - "C:/Qt/6.10.1/mingw_64/lib/cmake"
-      ENV{PATH}:
-        - "c:\\Qt\\Tools\\mingw1310_64\\bin"
-        - "c:\\Qt\\6.10.1\\mingw_64\\bin"
-        - "C:/Program Files/Common Files/Oracle/Java/javapath"
-        - "C:\\WINDOWS\\system32"
-        - "C:/WINDOWS"
-        - "C:\\WINDOWS\\System32\\Wbem"
-        - "C:/WINDOWS/System32/WindowsPowerShell/v1.0/"
-        - "C:\\WINDOWS\\System32\\OpenSSH\\"
-        - "C:/Program Files/Git/cmd"
-        - "C:\\Program Files\\CMake\\bin"
-        - "C:/Users/anura/AppData/Local/Microsoft/WindowsApps"
-        - "C:\\Users\\anura\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
-        - "C:/Qt/6.10.1/mingw_64/bin"
-        - "c:\\Qt\\Tools\\Ninja"
-        - "c:\\Qt\\Tools\\mingw1310_64\\bin"
-      CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/FlowTrack"
-      CMAKE_SYSTEM_PREFIX_PATH:
-        - "C:/Program Files"
-        - "C:/Program Files (x86)"
-        - "C:/Program Files/CMake"
-        - "C:/Program Files (x86)/FlowTrack"
-      CMAKE_FIND_ROOT_PATH: "C:/Qt/6.10.1/mingw_64;C:/Qt/6.10.1/mingw_64"
-  -
-    kind: "find_package-v1"
-    backtrace:
-      - "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeFindDependencyMacro.cmake:93 (find_package)"
-      - "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeFindDependencyMacro.cmake:125 (__find_dependency_common)"
-      - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6/QtPublicDependencyHelpers.cmake:142 (find_dependency)"
-      - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6Qml/Qt6QmlDependencies.cmake:50 (_qt_internal_find_qt_dependencies)"
-      - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6Qml/Qt6QmlConfig.cmake:43 (include)"
-      - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6/Qt6Config.cmake:237 (find_package)"
-      - "CMakeLists.txt:10 (find_package)"
-    name: "Qt6Network"
-    configs:
-      -
-        filename: "Qt6NetworkConfig.cmake"
-        kind: "cmake"
-      -
-        filename: "qt6network-config.cmake"
-        kind: "cmake"
-    version_request:
-      version: "6.10.1"
-      version_complete: "6.10.1"
-      exact: false
-    settings:
-      required: "optional"
-      quiet: false
-      global: false
-      policy_scope: true
-      bypass_provider: false
-      names:
-        - "Qt6Network"
-      search_paths:
-        - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6Qml/.."
-        - "C:/Qt/6.10.1/mingw_64/lib/cmake"
-      path_suffixes:
-        - ""
-      paths:
-        CMAKE_FIND_USE_CMAKE_PATH: false
-        CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: true
-        CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
-        CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
-        CMAKE_FIND_USE_INSTALL_PREFIX: true
-        CMAKE_FIND_USE_PACKAGE_ROOT_PATH: true
-        CMAKE_FIND_USE_CMAKE_PACKAGE_REGISTRY: true
-        CMAKE_FIND_USE_SYSTEM_PACKAGE_REGISTRY: true
-        CMAKE_FIND_ROOT_PATH_MODE: "BOTH"
-    candidates:
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6NetworkConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/qt6network-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6NetworkPrivate/Qt6NetworkConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6NetworkPrivate/qt6network-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-    found:
-      path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6Network/Qt6NetworkConfig.cmake"
-      mode: "config"
-      version: "6.10.1"
-    search_context:
-      CMAKE_PREFIX_PATH:
-        - "C:/Qt/6.10.1/mingw_64/lib/cmake"
-        - "C:/Qt/6.10.1/mingw_64/lib/cmake"
-      ENV{PATH}:
-        - "c:\\Qt\\Tools\\mingw1310_64\\bin"
-        - "c:\\Qt\\6.10.1\\mingw_64\\bin"
-        - "C:/Program Files/Common Files/Oracle/Java/javapath"
-        - "C:\\WINDOWS\\system32"
-        - "C:/WINDOWS"
-        - "C:\\WINDOWS\\System32\\Wbem"
-        - "C:/WINDOWS/System32/WindowsPowerShell/v1.0/"
-        - "C:\\WINDOWS\\System32\\OpenSSH\\"
-        - "C:/Program Files/Git/cmd"
-        - "C:\\Program Files\\CMake\\bin"
-        - "C:/Users/anura/AppData/Local/Microsoft/WindowsApps"
-        - "C:\\Users\\anura\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
-        - "C:/Qt/6.10.1/mingw_64/bin"
-        - "c:\\Qt\\Tools\\Ninja"
-        - "c:\\Qt\\Tools\\mingw1310_64\\bin"
-      CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/FlowTrack"
-      CMAKE_SYSTEM_PREFIX_PATH:
-        - "C:/Program Files"
-        - "C:/Program Files (x86)"
-        - "C:/Program Files/CMake"
-        - "C:/Program Files (x86)/FlowTrack"
-      CMAKE_FIND_ROOT_PATH: "C:/Qt/6.10.1/mingw_64;C:/Qt/6.10.1/mingw_64"
-  -
-    kind: "find_package-v1"
-    backtrace:
-      - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6Qml/Qt6QmlFindQmlscInternal.cmake:34 (find_package)"
-      - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6Qml/Qt6QmlConfig.cmake:191 (include)"
-      - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6/Qt6Config.cmake:237 (find_package)"
-      - "CMakeLists.txt:10 (find_package)"
-    name: "Qt6QmlCompilerPlusPrivateTools"
-    configs:
-      -
-        filename: "Qt6QmlCompilerPlusPrivateToolsConfig.cmake"
-        kind: "cmake"
-      -
-        filename: "qt6qmlcompilerplusprivatetools-config.cmake"
-        kind: "cmake"
-    version_request:
-      version: "6.10.1"
-      version_complete: "6.10.1"
-      exact: false
-    settings:
-      required: "optional"
-      quiet: true
-      global: false
-      policy_scope: true
-      bypass_provider: false
-      names:
-        - "Qt6QmlCompilerPlusPrivateTools"
-      path_suffixes:
-        - ""
-      paths:
-        CMAKE_FIND_USE_CMAKE_PATH: true
-        CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: true
-        CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
-        CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
-        CMAKE_FIND_USE_INSTALL_PREFIX: true
-        CMAKE_FIND_USE_PACKAGE_ROOT_PATH: true
-        CMAKE_FIND_USE_CMAKE_PACKAGE_REGISTRY: true
-        CMAKE_FIND_USE_SYSTEM_PACKAGE_REGISTRY: true
-        CMAKE_FIND_ROOT_PATH_MODE: "BOTH"
-    candidates:
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QmlCompilerPlusPrivateToolsConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/qt6qmlcompilerplusprivatetools-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/Qt6QmlCompilerPlusPrivateToolsConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/qt6qmlcompilerplusprivatetools-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QmlCompilerPlusPrivateToolsConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/qt6qmlcompilerplusprivatetools-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/Qt6QmlCompilerPlusPrivateToolsConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/qt6qmlcompilerplusprivatetools-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "D:/workdir/FlowTrack/FlowTrackDesktop/build/CMakeFiles/pkgRedirects/Qt6QmlCompilerPlusPrivateToolsConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "D:/workdir/FlowTrack/FlowTrackDesktop/build/CMakeFiles/pkgRedirects/qt6qmlcompilerplusprivatetools-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QmlCompilerPlusPrivateToolsConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/qt6qmlcompilerplusprivatetools-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/Tools/mingw1310_64/Qt6QmlCompilerPlusPrivateToolsConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/Tools/mingw1310_64/qt6qmlcompilerplusprivatetools-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/Qt6QmlCompilerPlusPrivateToolsConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/qt6qmlcompilerplusprivatetools-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Program Files/Common Files/Oracle/Java/javapath/Qt6QmlCompilerPlusPrivateToolsConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Program Files/Common Files/Oracle/Java/javapath/qt6qmlcompilerplusprivatetools-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Windows/System32/Qt6QmlCompilerPlusPrivateToolsConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Windows/System32/qt6qmlcompilerplusprivatetools-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Windows/Qt6QmlCompilerPlusPrivateToolsConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Windows/qt6qmlcompilerplusprivatetools-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Windows/System32/wbem/Qt6QmlCompilerPlusPrivateToolsConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Windows/System32/wbem/qt6qmlcompilerplusprivatetools-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Windows/System32/WindowsPowerShell/v1.0/Qt6QmlCompilerPlusPrivateToolsConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Windows/System32/WindowsPowerShell/v1.0/qt6qmlcompilerplusprivatetools-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Windows/System32/OpenSSH/Qt6QmlCompilerPlusPrivateToolsConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Windows/System32/OpenSSH/qt6qmlcompilerplusprivatetools-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Program Files/Git/cmd/Qt6QmlCompilerPlusPrivateToolsConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Program Files/Git/cmd/qt6qmlcompilerplusprivatetools-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Program Files/CMake/Qt6QmlCompilerPlusPrivateToolsConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Program Files/CMake/qt6qmlcompilerplusprivatetools-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Users/anura/AppData/Local/Microsoft/WindowsApps/Qt6QmlCompilerPlusPrivateToolsConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Users/anura/AppData/Local/Microsoft/WindowsApps/qt6qmlcompilerplusprivatetools-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Users/anura/AppData/Local/Programs/Microsoft VS Code/Qt6QmlCompilerPlusPrivateToolsConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Users/anura/AppData/Local/Programs/Microsoft VS Code/qt6qmlcompilerplusprivatetools-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/Tools/Ninja/Qt6QmlCompilerPlusPrivateToolsConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/Tools/Ninja/qt6qmlcompilerplusprivatetools-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Program Files/Qt6QmlCompilerPlusPrivateToolsConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Program Files/qt6qmlcompilerplusprivatetools-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Program Files/CMake/Qt6QmlCompilerPlusPrivateToolsConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Program Files/CMake/qt6qmlcompilerplusprivatetools-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Program Files (x86)/Qt6QmlCompilerPlusPrivateToolsConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Program Files (x86)/qt6qmlcompilerplusprivatetools-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-    found: null
-    search_context:
-      CMAKE_PREFIX_PATH:
-        - "C:/Qt/6.10.1/mingw_64/lib/cmake"
-        - "C:/Qt/6.10.1/mingw_64/lib/cmake"
-      ENV{PATH}:
-        - "c:\\Qt\\Tools\\mingw1310_64\\bin"
-        - "c:\\Qt\\6.10.1\\mingw_64\\bin"
-        - "C:/Program Files/Common Files/Oracle/Java/javapath"
-        - "C:\\WINDOWS\\system32"
-        - "C:/WINDOWS"
-        - "C:\\WINDOWS\\System32\\Wbem"
-        - "C:/WINDOWS/System32/WindowsPowerShell/v1.0/"
-        - "C:\\WINDOWS\\System32\\OpenSSH\\"
-        - "C:/Program Files/Git/cmd"
-        - "C:\\Program Files\\CMake\\bin"
-        - "C:/Users/anura/AppData/Local/Microsoft/WindowsApps"
-        - "C:\\Users\\anura\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
-        - "C:/Qt/6.10.1/mingw_64/bin"
-        - "c:\\Qt\\Tools\\Ninja"
-        - "c:\\Qt\\Tools\\mingw1310_64\\bin"
-      CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/FlowTrack"
-      CMAKE_SYSTEM_PREFIX_PATH:
-        - "C:/Program Files"
-        - "C:/Program Files (x86)"
-        - "C:/Program Files/CMake"
-        - "C:/Program Files (x86)/FlowTrack"
-      CMAKE_FIND_ROOT_PATH: "C:/Qt/6.10.1/mingw_64;C:/Qt/6.10.1/mingw_64"
-  -
-    kind: "find_package-v1"
-    backtrace:
-      - "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeFindDependencyMacro.cmake:93 (find_package)"
-      - "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeFindDependencyMacro.cmake:125 (__find_dependency_common)"
-      - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6/QtPublicDependencyHelpers.cmake:142 (find_dependency)"
-      - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6ExamplesAssetDownloaderPrivate/Qt6ExamplesAssetDownloaderPrivateDependencies.cmake:50 (_qt_internal_find_qt_dependencies)"
-      - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6ExamplesAssetDownloaderPrivate/Qt6ExamplesAssetDownloaderPrivateConfig.cmake:40 (include)"
-      - "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeFindDependencyMacro.cmake:93 (find_package)"
-      - "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeFindDependencyMacro.cmake:125 (__find_dependency_common)"
-      - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6/QtPublicDependencyHelpers.cmake:142 (find_dependency)"
-      - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QmlAssetDownloader/Qt6QmlAssetDownloaderDependencies.cmake:50 (_qt_internal_find_qt_dependencies)"
-      - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QmlAssetDownloader/Qt6QmlAssetDownloaderConfig.cmake:40 (include)"
-      - "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeFindDependencyMacro.cmake:93 (find_package)"
-      - "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeFindDependencyMacro.cmake:125 (__find_dependency_common)"
-      - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6/QtPublicDependencyHelpers.cmake:142 (find_dependency)"
-      - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6QmlAssetDownloaderpluginDependencies.cmake:22 (_qt_internal_find_qt_dependencies)"
-      - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6QmlAssetDownloaderpluginConfig.cmake:52 (include)"
-      - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6/QtPublicPluginHelpers.cmake:638 (include)"
-      - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6Qml/Qt6QmlPlugins.cmake:6 (__qt_internal_include_qml_plugin_packages)"
-      - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6Qml/Qt6QmlConfig.cmake:195 (include)"
-      - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6/Qt6Config.cmake:237 (find_package)"
-      - "CMakeLists.txt:10 (find_package)"
-    name: "Qt6Concurrent"
-    configs:
-      -
-        filename: "Qt6ConcurrentConfig.cmake"
-        kind: "cmake"
-      -
-        filename: "qt6concurrent-config.cmake"
-        kind: "cmake"
-    version_request:
-      version: "6.10.1"
-      version_complete: "6.10.1"
-      exact: false
-    settings:
-      required: "optional"
-      quiet: false
-      global: false
-      policy_scope: true
-      bypass_provider: false
-      names:
-        - "Qt6Concurrent"
-      search_paths:
-        - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6ExamplesAssetDownloaderPrivate/.."
-        - "C:/Qt/6.10.1/mingw_64/lib/cmake"
-      path_suffixes:
-        - ""
-      paths:
-        CMAKE_FIND_USE_CMAKE_PATH: false
-        CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: true
-        CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
-        CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
-        CMAKE_FIND_USE_INSTALL_PREFIX: true
-        CMAKE_FIND_USE_PACKAGE_ROOT_PATH: true
-        CMAKE_FIND_USE_CMAKE_PACKAGE_REGISTRY: true
-        CMAKE_FIND_USE_SYSTEM_PACKAGE_REGISTRY: true
-        CMAKE_FIND_ROOT_PATH_MODE: "BOTH"
-    candidates:
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6ConcurrentConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/qt6concurrent-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-    found:
-      path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6Concurrent/Qt6ConcurrentConfig.cmake"
-      mode: "config"
-      version: "6.10.1"
-    search_context:
-      CMAKE_PREFIX_PATH:
-        - "C:/Qt/6.10.1/mingw_64/lib/cmake"
-        - "C:/Qt/6.10.1/mingw_64/lib/cmake"
-      ENV{PATH}:
-        - "c:\\Qt\\Tools\\mingw1310_64\\bin"
-        - "c:\\Qt\\6.10.1\\mingw_64\\bin"
-        - "C:/Program Files/Common Files/Oracle/Java/javapath"
-        - "C:\\WINDOWS\\system32"
-        - "C:/WINDOWS"
-        - "C:\\WINDOWS\\System32\\Wbem"
-        - "C:/WINDOWS/System32/WindowsPowerShell/v1.0/"
-        - "C:\\WINDOWS\\System32\\OpenSSH\\"
-        - "C:/Program Files/Git/cmd"
-        - "C:\\Program Files\\CMake\\bin"
-        - "C:/Users/anura/AppData/Local/Microsoft/WindowsApps"
-        - "C:\\Users\\anura\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
-        - "C:/Qt/6.10.1/mingw_64/bin"
-        - "c:\\Qt\\Tools\\Ninja"
-        - "c:\\Qt\\Tools\\mingw1310_64\\bin"
-      CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/FlowTrack"
-      CMAKE_SYSTEM_PREFIX_PATH:
-        - "C:/Program Files"
-        - "C:/Program Files (x86)"
-        - "C:/Program Files/CMake"
-        - "C:/Program Files (x86)/FlowTrack"
-      CMAKE_FIND_ROOT_PATH: "C:/Qt/6.10.1/mingw_64;C:/Qt/6.10.1/mingw_64"
-  -
-    kind: "find_package-v1"
-    backtrace:
-      - "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeFindDependencyMacro.cmake:93 (find_package)"
-      - "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeFindDependencyMacro.cmake:125 (__find_dependency_common)"
-      - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6/QtPublicDependencyHelpers.cmake:142 (find_dependency)"
-      - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QmlAssetDownloader/Qt6QmlAssetDownloaderDependencies.cmake:50 (_qt_internal_find_qt_dependencies)"
-      - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QmlAssetDownloader/Qt6QmlAssetDownloaderConfig.cmake:40 (include)"
-      - "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeFindDependencyMacro.cmake:93 (find_package)"
-      - "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeFindDependencyMacro.cmake:125 (__find_dependency_common)"
-      - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6/QtPublicDependencyHelpers.cmake:142 (find_dependency)"
-      - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6QmlAssetDownloaderpluginDependencies.cmake:22 (_qt_internal_find_qt_dependencies)"
-      - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6QmlAssetDownloaderpluginConfig.cmake:52 (include)"
-      - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6/QtPublicPluginHelpers.cmake:638 (include)"
-      - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6Qml/Qt6QmlPlugins.cmake:6 (__qt_internal_include_qml_plugin_packages)"
-      - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6Qml/Qt6QmlConfig.cmake:195 (include)"
-      - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6/Qt6Config.cmake:237 (find_package)"
-      - "CMakeLists.txt:10 (find_package)"
-    name: "Qt6ExamplesAssetDownloaderPrivate"
-    configs:
-      -
-        filename: "Qt6ExamplesAssetDownloaderPrivateConfig.cmake"
-        kind: "cmake"
-      -
-        filename: "qt6examplesassetdownloaderprivate-config.cmake"
-        kind: "cmake"
-    version_request:
-      version: "6.10.1"
-      version_complete: "6.10.1"
-      exact: false
-    settings:
-      required: "optional"
-      quiet: false
-      global: false
-      policy_scope: true
-      bypass_provider: false
-      names:
-        - "Qt6ExamplesAssetDownloaderPrivate"
-      search_paths:
-        - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QmlAssetDownloader/.."
-        - "C:/Qt/6.10.1/mingw_64/lib/cmake"
-      path_suffixes:
-        - ""
-      paths:
-        CMAKE_FIND_USE_CMAKE_PATH: false
-        CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: true
-        CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
-        CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
-        CMAKE_FIND_USE_INSTALL_PREFIX: true
-        CMAKE_FIND_USE_PACKAGE_ROOT_PATH: true
-        CMAKE_FIND_USE_CMAKE_PACKAGE_REGISTRY: true
-        CMAKE_FIND_USE_SYSTEM_PACKAGE_REGISTRY: true
-        CMAKE_FIND_ROOT_PATH_MODE: "BOTH"
-    candidates:
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6ExamplesAssetDownloaderPrivateConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/qt6examplesassetdownloaderprivate-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-    found:
-      path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6ExamplesAssetDownloaderPrivate/Qt6ExamplesAssetDownloaderPrivateConfig.cmake"
-      mode: "config"
-      version: "6.10.1"
-    search_context:
-      CMAKE_PREFIX_PATH:
-        - "C:/Qt/6.10.1/mingw_64/lib/cmake"
-        - "C:/Qt/6.10.1/mingw_64/lib/cmake"
-      ENV{PATH}:
-        - "c:\\Qt\\Tools\\mingw1310_64\\bin"
-        - "c:\\Qt\\6.10.1\\mingw_64\\bin"
-        - "C:/Program Files/Common Files/Oracle/Java/javapath"
-        - "C:\\WINDOWS\\system32"
-        - "C:/WINDOWS"
-        - "C:\\WINDOWS\\System32\\Wbem"
-        - "C:/WINDOWS/System32/WindowsPowerShell/v1.0/"
-        - "C:\\WINDOWS\\System32\\OpenSSH\\"
-        - "C:/Program Files/Git/cmd"
-        - "C:\\Program Files\\CMake\\bin"
-        - "C:/Users/anura/AppData/Local/Microsoft/WindowsApps"
-        - "C:\\Users\\anura\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
-        - "C:/Qt/6.10.1/mingw_64/bin"
-        - "c:\\Qt\\Tools\\Ninja"
-        - "c:\\Qt\\Tools\\mingw1310_64\\bin"
-      CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/FlowTrack"
-      CMAKE_SYSTEM_PREFIX_PATH:
-        - "C:/Program Files"
-        - "C:/Program Files (x86)"
-        - "C:/Program Files/CMake"
-        - "C:/Program Files (x86)/FlowTrack"
-      CMAKE_FIND_ROOT_PATH: "C:/Qt/6.10.1/mingw_64;C:/Qt/6.10.1/mingw_64"
-  -
-    kind: "find_package-v1"
-    backtrace:
-      - "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeFindDependencyMacro.cmake:93 (find_package)"
-      - "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeFindDependencyMacro.cmake:125 (__find_dependency_common)"
-      - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6/QtPublicDependencyHelpers.cmake:142 (find_dependency)"
-      - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6QmlAssetDownloaderpluginDependencies.cmake:22 (_qt_internal_find_qt_dependencies)"
-      - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/Qt6QmlAssetDownloaderpluginConfig.cmake:52 (include)"
-      - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6/QtPublicPluginHelpers.cmake:638 (include)"
-      - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6Qml/Qt6QmlPlugins.cmake:6 (__qt_internal_include_qml_plugin_packages)"
-      - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6Qml/Qt6QmlConfig.cmake:195 (include)"
-      - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6/Qt6Config.cmake:237 (find_package)"
-      - "CMakeLists.txt:10 (find_package)"
-    name: "Qt6QmlAssetDownloader"
-    configs:
-      -
-        filename: "Qt6QmlAssetDownloaderConfig.cmake"
-        kind: "cmake"
-      -
-        filename: "qt6qmlassetdownloader-config.cmake"
-        kind: "cmake"
-    version_request:
-      version: "6.10.1"
-      version_complete: "6.10.1"
-      exact: false
-    settings:
-      required: "optional"
-      quiet: false
-      global: false
-      policy_scope: true
-      bypass_provider: false
-      names:
-        - "Qt6QmlAssetDownloader"
-      search_paths:
-        - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6Qml/QmlPlugins/../.."
-        - "C:/Qt/6.10.1/mingw_64/lib/cmake"
-      path_suffixes:
-        - ""
-      paths:
-        CMAKE_FIND_USE_CMAKE_PATH: false
-        CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: true
-        CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
-        CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
-        CMAKE_FIND_USE_INSTALL_PREFIX: true
-        CMAKE_FIND_USE_PACKAGE_ROOT_PATH: true
-        CMAKE_FIND_USE_CMAKE_PACKAGE_REGISTRY: true
-        CMAKE_FIND_USE_SYSTEM_PACKAGE_REGISTRY: true
-        CMAKE_FIND_ROOT_PATH_MODE: "BOTH"
-    candidates:
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QmlAssetDownloaderConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/qt6qmlassetdownloader-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QmlAssetDownloaderPrivate/Qt6QmlAssetDownloaderConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QmlAssetDownloaderPrivate/qt6qmlassetdownloader-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-    found:
-      path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QmlAssetDownloader/Qt6QmlAssetDownloaderConfig.cmake"
-      mode: "config"
-      version: "6.10.1"
-    search_context:
-      CMAKE_PREFIX_PATH:
-        - "C:/Qt/6.10.1/mingw_64/lib/cmake"
-        - "C:/Qt/6.10.1/mingw_64/lib/cmake"
-      ENV{PATH}:
-        - "c:\\Qt\\Tools\\mingw1310_64\\bin"
-        - "c:\\Qt\\6.10.1\\mingw_64\\bin"
-        - "C:/Program Files/Common Files/Oracle/Java/javapath"
-        - "C:\\WINDOWS\\system32"
-        - "C:/WINDOWS"
-        - "C:\\WINDOWS\\System32\\Wbem"
-        - "C:/WINDOWS/System32/WindowsPowerShell/v1.0/"
-        - "C:\\WINDOWS\\System32\\OpenSSH\\"
-        - "C:/Program Files/Git/cmd"
-        - "C:\\Program Files\\CMake\\bin"
-        - "C:/Users/anura/AppData/Local/Microsoft/WindowsApps"
-        - "C:\\Users\\anura\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
-        - "C:/Qt/6.10.1/mingw_64/bin"
-        - "c:\\Qt\\Tools\\Ninja"
-        - "c:\\Qt\\Tools\\mingw1310_64\\bin"
-      CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/FlowTrack"
-      CMAKE_SYSTEM_PREFIX_PATH:
-        - "C:/Program Files"
-        - "C:/Program Files (x86)"
-        - "C:/Program Files/CMake"
-        - "C:/Program Files (x86)/FlowTrack"
+        - "C:/Program Files (x86)/flowTrack"
       CMAKE_FIND_ROOT_PATH: "C:/Qt/6.10.1/mingw_64;C:/Qt/6.10.1/mingw_64"
   -
     kind: "find_package-v1"
     backtrace:
       - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6/Qt6Config.cmake:237 (find_package)"
       - "CMakeLists.txt:10 (find_package)"
-    name: "Qt6Qml"
+    name: "Qt6Widgets"
     configs:
       -
-        filename: "Qt6QmlConfig.cmake"
+        filename: "Qt6WidgetsConfig.cmake"
         kind: "cmake"
       -
-        filename: "qt6qml-config.cmake"
+        filename: "qt6widgets-config.cmake"
         kind: "cmake"
     version_request:
       exact: false
@@ -6916,7 +6264,7 @@ events:
       policy_scope: true
       bypass_provider: false
       names:
-        - "Qt6Qml"
+        - "Qt6Widgets"
       search_paths:
         - "C:/Qt/6.10.1/mingw_64/lib/cmake"
       path_suffixes:
@@ -6933,239 +6281,31 @@ events:
         CMAKE_FIND_ROOT_PATH_MODE: "BOTH"
     candidates:
       -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QmlConfig.cmake"
+        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6WidgetsConfig.cmake"
         mode: "config"
         reason: "no_exist"
       -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/qt6qml-config.cmake"
+        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/qt6widgets-config.cmake"
         mode: "config"
         reason: "no_exist"
       -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QmlXmlListModelPrivate/Qt6QmlConfig.cmake"
+        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6WidgetsTools/Qt6WidgetsConfig.cmake"
         mode: "config"
         reason: "no_exist"
       -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QmlXmlListModelPrivate/qt6qml-config.cmake"
+        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6WidgetsTools/qt6widgets-config.cmake"
         mode: "config"
         reason: "no_exist"
       -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QmlXmlListModel/Qt6QmlConfig.cmake"
+        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6WidgetsPrivate/Qt6WidgetsConfig.cmake"
         mode: "config"
         reason: "no_exist"
       -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QmlXmlListModel/qt6qml-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QmlWorkerScriptPrivate/Qt6QmlConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QmlWorkerScriptPrivate/qt6qml-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QmlWorkerScript/Qt6QmlConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QmlWorkerScript/qt6qml-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QmlTypeRegistrarPrivate/Qt6QmlConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QmlTypeRegistrarPrivate/qt6qml-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QmlTools/Qt6QmlConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QmlTools/qt6qml-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QmlToolingSettingsPrivate/Qt6QmlConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QmlToolingSettingsPrivate/qt6qml-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QmlPrivate/Qt6QmlConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QmlPrivate/qt6qml-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QmlNetworkPrivate/Qt6QmlConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QmlNetworkPrivate/qt6qml-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QmlNetwork/Qt6QmlConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QmlNetwork/qt6qml-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QmlModelsPrivate/Qt6QmlConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QmlModelsPrivate/qt6qml-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QmlModels/Qt6QmlConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QmlModels/qt6qml-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QmlMetaPrivate/Qt6QmlConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QmlMetaPrivate/qt6qml-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QmlMeta/Qt6QmlConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QmlMeta/qt6qml-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QmlLocalStoragePrivate/Qt6QmlConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QmlLocalStoragePrivate/qt6qml-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QmlLocalStorage/Qt6QmlConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QmlLocalStorage/qt6qml-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QmlLSPrivate/Qt6QmlConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QmlLSPrivate/qt6qml-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QmlIntegration/Qt6QmlConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QmlIntegration/qt6qml-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QmlImportScanner/Qt6QmlConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QmlImportScanner/qt6qml-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QmlFormatPrivate/Qt6QmlConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QmlFormatPrivate/qt6qml-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QmlDomPrivate/Qt6QmlConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QmlDomPrivate/qt6qml-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QmlDebugPrivate/Qt6QmlConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QmlDebugPrivate/qt6qml-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QmlCorePrivate/Qt6QmlConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QmlCorePrivate/qt6qml-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QmlCore/Qt6QmlConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QmlCore/qt6qml-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QmlCompilerPrivate/Qt6QmlConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QmlCompilerPrivate/qt6qml-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QmlCompiler/Qt6QmlConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QmlCompiler/qt6qml-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QmlAssetDownloaderPrivate/Qt6QmlConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QmlAssetDownloaderPrivate/qt6qml-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QmlAssetDownloader/Qt6QmlConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QmlAssetDownloader/qt6qml-config.cmake"
+        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6WidgetsPrivate/qt6widgets-config.cmake"
         mode: "config"
         reason: "no_exist"
     found:
-      path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6Qml/Qt6QmlConfig.cmake"
+      path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6Widgets/Qt6WidgetsConfig.cmake"
       mode: "config"
       version: "6.10.1"
     search_context:
@@ -7188,1306 +6328,12 @@ events:
         - "C:/Qt/6.10.1/mingw_64/bin"
         - "c:\\Qt\\Tools\\Ninja"
         - "c:\\Qt\\Tools\\mingw1310_64\\bin"
-      CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/FlowTrack"
+      CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/flowTrack"
       CMAKE_SYSTEM_PREFIX_PATH:
         - "C:/Program Files"
         - "C:/Program Files (x86)"
         - "C:/Program Files/CMake"
-        - "C:/Program Files (x86)/FlowTrack"
-      CMAKE_FIND_ROOT_PATH: "C:/Qt/6.10.1/mingw_64;C:/Qt/6.10.1/mingw_64"
-  -
-    kind: "find_package-v1"
-    backtrace:
-      - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6/QtPublicDependencyHelpers.cmake:100 (find_package)"
-      - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6Quick/Qt6QuickDependencies.cmake:42 (_qt_internal_find_tool_dependencies)"
-      - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6Quick/Qt6QuickConfig.cmake:40 (include)"
-      - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6/Qt6Config.cmake:237 (find_package)"
-      - "CMakeLists.txt:10 (find_package)"
-    name: "Qt6QuickTools"
-    configs:
-      -
-        filename: "Qt6QuickToolsConfig.cmake"
-        kind: "cmake"
-      -
-        filename: "qt6quicktools-config.cmake"
-        kind: "cmake"
-    version_request:
-      version: "6.10.1"
-      version_complete: "6.10.1"
-      exact: false
-    settings:
-      required: "optional"
-      quiet: false
-      global: false
-      policy_scope: true
-      bypass_provider: false
-      names:
-        - "Qt6QuickTools"
-      search_paths:
-        - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6Quick/.."
-        - "C:/Qt/6.10.1/mingw_64/lib/cmake"
-      path_suffixes:
-        - ""
-      paths:
-        CMAKE_FIND_USE_CMAKE_PATH: true
-        CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: true
-        CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
-        CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
-        CMAKE_FIND_USE_INSTALL_PREFIX: true
-        CMAKE_FIND_USE_PACKAGE_ROOT_PATH: true
-        CMAKE_FIND_USE_CMAKE_PACKAGE_REGISTRY: true
-        CMAKE_FIND_USE_SYSTEM_PACKAGE_REGISTRY: true
-        CMAKE_FIND_ROOT_PATH_MODE: "BOTH"
-    candidates:
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QuickToolsConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/qt6quicktools-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-    found:
-      path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QuickTools/Qt6QuickToolsConfig.cmake"
-      mode: "config"
-      version: "6.10.1"
-    search_context:
-      CMAKE_PREFIX_PATH:
-        - "C:/Qt/6.10.1/mingw_64/lib/cmake"
-        - "C:/Qt/6.10.1/mingw_64/lib/cmake"
-      ENV{PATH}:
-        - "c:\\Qt\\Tools\\mingw1310_64\\bin"
-        - "c:\\Qt\\6.10.1\\mingw_64\\bin"
-        - "C:/Program Files/Common Files/Oracle/Java/javapath"
-        - "C:\\WINDOWS\\system32"
-        - "C:/WINDOWS"
-        - "C:\\WINDOWS\\System32\\Wbem"
-        - "C:/WINDOWS/System32/WindowsPowerShell/v1.0/"
-        - "C:\\WINDOWS\\System32\\OpenSSH\\"
-        - "C:/Program Files/Git/cmd"
-        - "C:\\Program Files\\CMake\\bin"
-        - "C:/Users/anura/AppData/Local/Microsoft/WindowsApps"
-        - "C:\\Users\\anura\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
-        - "C:/Qt/6.10.1/mingw_64/bin"
-        - "c:\\Qt\\Tools\\Ninja"
-        - "c:\\Qt\\Tools\\mingw1310_64\\bin"
-      CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/FlowTrack"
-      CMAKE_SYSTEM_PREFIX_PATH:
-        - "C:/Program Files"
-        - "C:/Program Files (x86)"
-        - "C:/Program Files/CMake"
-        - "C:/Program Files (x86)/FlowTrack"
-      CMAKE_FIND_ROOT_PATH: "C:/Qt/6.10.1/mingw_64;C:/Qt/6.10.1/mingw_64"
-  -
-    kind: "find_package-v1"
-    backtrace:
-      - "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeFindDependencyMacro.cmake:93 (find_package)"
-      - "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeFindDependencyMacro.cmake:125 (__find_dependency_common)"
-      - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6/QtPublicDependencyHelpers.cmake:142 (find_dependency)"
-      - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6Quick/Qt6QuickDependencies.cmake:50 (_qt_internal_find_qt_dependencies)"
-      - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6Quick/Qt6QuickConfig.cmake:40 (include)"
-      - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6/Qt6Config.cmake:237 (find_package)"
-      - "CMakeLists.txt:10 (find_package)"
-    name: "Qt6QmlModels"
-    configs:
-      -
-        filename: "Qt6QmlModelsConfig.cmake"
-        kind: "cmake"
-      -
-        filename: "qt6qmlmodels-config.cmake"
-        kind: "cmake"
-    version_request:
-      version: "6.10.1"
-      version_complete: "6.10.1"
-      exact: false
-    settings:
-      required: "optional"
-      quiet: false
-      global: false
-      policy_scope: true
-      bypass_provider: false
-      names:
-        - "Qt6QmlModels"
-      search_paths:
-        - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6Quick/.."
-        - "C:/Qt/6.10.1/mingw_64/lib/cmake"
-      path_suffixes:
-        - ""
-      paths:
-        CMAKE_FIND_USE_CMAKE_PATH: false
-        CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: true
-        CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
-        CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
-        CMAKE_FIND_USE_INSTALL_PREFIX: true
-        CMAKE_FIND_USE_PACKAGE_ROOT_PATH: true
-        CMAKE_FIND_USE_CMAKE_PACKAGE_REGISTRY: true
-        CMAKE_FIND_USE_SYSTEM_PACKAGE_REGISTRY: true
-        CMAKE_FIND_ROOT_PATH_MODE: "BOTH"
-    candidates:
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QmlModelsConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/qt6qmlmodels-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QmlModelsPrivate/Qt6QmlModelsConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QmlModelsPrivate/qt6qmlmodels-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-    found:
-      path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QmlModels/Qt6QmlModelsConfig.cmake"
-      mode: "config"
-      version: "6.10.1"
-    search_context:
-      CMAKE_PREFIX_PATH:
-        - "C:/Qt/6.10.1/mingw_64/lib/cmake"
-        - "C:/Qt/6.10.1/mingw_64/lib/cmake"
-      ENV{PATH}:
-        - "c:\\Qt\\Tools\\mingw1310_64\\bin"
-        - "c:\\Qt\\6.10.1\\mingw_64\\bin"
-        - "C:/Program Files/Common Files/Oracle/Java/javapath"
-        - "C:\\WINDOWS\\system32"
-        - "C:/WINDOWS"
-        - "C:\\WINDOWS\\System32\\Wbem"
-        - "C:/WINDOWS/System32/WindowsPowerShell/v1.0/"
-        - "C:\\WINDOWS\\System32\\OpenSSH\\"
-        - "C:/Program Files/Git/cmd"
-        - "C:\\Program Files\\CMake\\bin"
-        - "C:/Users/anura/AppData/Local/Microsoft/WindowsApps"
-        - "C:\\Users\\anura\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
-        - "C:/Qt/6.10.1/mingw_64/bin"
-        - "c:\\Qt\\Tools\\Ninja"
-        - "c:\\Qt\\Tools\\mingw1310_64\\bin"
-      CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/FlowTrack"
-      CMAKE_SYSTEM_PREFIX_PATH:
-        - "C:/Program Files"
-        - "C:/Program Files (x86)"
-        - "C:/Program Files/CMake"
-        - "C:/Program Files (x86)/FlowTrack"
-      CMAKE_FIND_ROOT_PATH: "C:/Qt/6.10.1/mingw_64;C:/Qt/6.10.1/mingw_64"
-  -
-    kind: "find_package-v1"
-    backtrace:
-      - "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeFindDependencyMacro.cmake:93 (find_package)"
-      - "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeFindDependencyMacro.cmake:125 (__find_dependency_common)"
-      - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6/QtPublicDependencyHelpers.cmake:142 (find_dependency)"
-      - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QmlMeta/Qt6QmlMetaDependencies.cmake:50 (_qt_internal_find_qt_dependencies)"
-      - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QmlMeta/Qt6QmlMetaConfig.cmake:40 (include)"
-      - "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeFindDependencyMacro.cmake:93 (find_package)"
-      - "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeFindDependencyMacro.cmake:125 (__find_dependency_common)"
-      - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6/QtPublicDependencyHelpers.cmake:142 (find_dependency)"
-      - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6Quick/Qt6QuickDependencies.cmake:50 (_qt_internal_find_qt_dependencies)"
-      - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6Quick/Qt6QuickConfig.cmake:40 (include)"
-      - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6/Qt6Config.cmake:237 (find_package)"
-      - "CMakeLists.txt:10 (find_package)"
-    name: "Qt6QmlWorkerScript"
-    configs:
-      -
-        filename: "Qt6QmlWorkerScriptConfig.cmake"
-        kind: "cmake"
-      -
-        filename: "qt6qmlworkerscript-config.cmake"
-        kind: "cmake"
-    version_request:
-      version: "6.10.1"
-      version_complete: "6.10.1"
-      exact: false
-    settings:
-      required: "optional"
-      quiet: false
-      global: false
-      policy_scope: true
-      bypass_provider: false
-      names:
-        - "Qt6QmlWorkerScript"
-      search_paths:
-        - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QmlMeta/.."
-        - "C:/Qt/6.10.1/mingw_64/lib/cmake"
-      path_suffixes:
-        - ""
-      paths:
-        CMAKE_FIND_USE_CMAKE_PATH: false
-        CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: true
-        CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
-        CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
-        CMAKE_FIND_USE_INSTALL_PREFIX: true
-        CMAKE_FIND_USE_PACKAGE_ROOT_PATH: true
-        CMAKE_FIND_USE_CMAKE_PACKAGE_REGISTRY: true
-        CMAKE_FIND_USE_SYSTEM_PACKAGE_REGISTRY: true
-        CMAKE_FIND_ROOT_PATH_MODE: "BOTH"
-    candidates:
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QmlWorkerScriptConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/qt6qmlworkerscript-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QmlWorkerScriptPrivate/Qt6QmlWorkerScriptConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QmlWorkerScriptPrivate/qt6qmlworkerscript-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-    found:
-      path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QmlWorkerScript/Qt6QmlWorkerScriptConfig.cmake"
-      mode: "config"
-      version: "6.10.1"
-    search_context:
-      CMAKE_PREFIX_PATH:
-        - "C:/Qt/6.10.1/mingw_64/lib/cmake"
-        - "C:/Qt/6.10.1/mingw_64/lib/cmake"
-      ENV{PATH}:
-        - "c:\\Qt\\Tools\\mingw1310_64\\bin"
-        - "c:\\Qt\\6.10.1\\mingw_64\\bin"
-        - "C:/Program Files/Common Files/Oracle/Java/javapath"
-        - "C:\\WINDOWS\\system32"
-        - "C:/WINDOWS"
-        - "C:\\WINDOWS\\System32\\Wbem"
-        - "C:/WINDOWS/System32/WindowsPowerShell/v1.0/"
-        - "C:\\WINDOWS\\System32\\OpenSSH\\"
-        - "C:/Program Files/Git/cmd"
-        - "C:\\Program Files\\CMake\\bin"
-        - "C:/Users/anura/AppData/Local/Microsoft/WindowsApps"
-        - "C:\\Users\\anura\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
-        - "C:/Qt/6.10.1/mingw_64/bin"
-        - "c:\\Qt\\Tools\\Ninja"
-        - "c:\\Qt\\Tools\\mingw1310_64\\bin"
-      CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/FlowTrack"
-      CMAKE_SYSTEM_PREFIX_PATH:
-        - "C:/Program Files"
-        - "C:/Program Files (x86)"
-        - "C:/Program Files/CMake"
-        - "C:/Program Files (x86)/FlowTrack"
-      CMAKE_FIND_ROOT_PATH: "C:/Qt/6.10.1/mingw_64;C:/Qt/6.10.1/mingw_64"
-  -
-    kind: "find_package-v1"
-    backtrace:
-      - "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeFindDependencyMacro.cmake:93 (find_package)"
-      - "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeFindDependencyMacro.cmake:125 (__find_dependency_common)"
-      - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6/QtPublicDependencyHelpers.cmake:142 (find_dependency)"
-      - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6Quick/Qt6QuickDependencies.cmake:50 (_qt_internal_find_qt_dependencies)"
-      - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6Quick/Qt6QuickConfig.cmake:40 (include)"
-      - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6/Qt6Config.cmake:237 (find_package)"
-      - "CMakeLists.txt:10 (find_package)"
-    name: "Qt6QmlMeta"
-    configs:
-      -
-        filename: "Qt6QmlMetaConfig.cmake"
-        kind: "cmake"
-      -
-        filename: "qt6qmlmeta-config.cmake"
-        kind: "cmake"
-    version_request:
-      version: "6.10.1"
-      version_complete: "6.10.1"
-      exact: false
-    settings:
-      required: "optional"
-      quiet: false
-      global: false
-      policy_scope: true
-      bypass_provider: false
-      names:
-        - "Qt6QmlMeta"
-      search_paths:
-        - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6Quick/.."
-        - "C:/Qt/6.10.1/mingw_64/lib/cmake"
-      path_suffixes:
-        - ""
-      paths:
-        CMAKE_FIND_USE_CMAKE_PATH: false
-        CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: true
-        CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
-        CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
-        CMAKE_FIND_USE_INSTALL_PREFIX: true
-        CMAKE_FIND_USE_PACKAGE_ROOT_PATH: true
-        CMAKE_FIND_USE_CMAKE_PACKAGE_REGISTRY: true
-        CMAKE_FIND_USE_SYSTEM_PACKAGE_REGISTRY: true
-        CMAKE_FIND_ROOT_PATH_MODE: "BOTH"
-    candidates:
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QmlMetaConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/qt6qmlmeta-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QmlMetaPrivate/Qt6QmlMetaConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QmlMetaPrivate/qt6qmlmeta-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-    found:
-      path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QmlMeta/Qt6QmlMetaConfig.cmake"
-      mode: "config"
-      version: "6.10.1"
-    search_context:
-      CMAKE_PREFIX_PATH:
-        - "C:/Qt/6.10.1/mingw_64/lib/cmake"
-        - "C:/Qt/6.10.1/mingw_64/lib/cmake"
-      ENV{PATH}:
-        - "c:\\Qt\\Tools\\mingw1310_64\\bin"
-        - "c:\\Qt\\6.10.1\\mingw_64\\bin"
-        - "C:/Program Files/Common Files/Oracle/Java/javapath"
-        - "C:\\WINDOWS\\system32"
-        - "C:/WINDOWS"
-        - "C:\\WINDOWS\\System32\\Wbem"
-        - "C:/WINDOWS/System32/WindowsPowerShell/v1.0/"
-        - "C:\\WINDOWS\\System32\\OpenSSH\\"
-        - "C:/Program Files/Git/cmd"
-        - "C:\\Program Files\\CMake\\bin"
-        - "C:/Users/anura/AppData/Local/Microsoft/WindowsApps"
-        - "C:\\Users\\anura\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
-        - "C:/Qt/6.10.1/mingw_64/bin"
-        - "c:\\Qt\\Tools\\Ninja"
-        - "c:\\Qt\\Tools\\mingw1310_64\\bin"
-      CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/FlowTrack"
-      CMAKE_SYSTEM_PREFIX_PATH:
-        - "C:/Program Files"
-        - "C:/Program Files (x86)"
-        - "C:/Program Files/CMake"
-        - "C:/Program Files (x86)/FlowTrack"
-      CMAKE_FIND_ROOT_PATH: "C:/Qt/6.10.1/mingw_64;C:/Qt/6.10.1/mingw_64"
-  -
-    kind: "find_package-v1"
-    backtrace:
-      - "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeFindDependencyMacro.cmake:93 (find_package)"
-      - "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeFindDependencyMacro.cmake:125 (__find_dependency_common)"
-      - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6/QtPublicDependencyHelpers.cmake:142 (find_dependency)"
-      - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6Quick/Qt6QuickDependencies.cmake:50 (_qt_internal_find_qt_dependencies)"
-      - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6Quick/Qt6QuickConfig.cmake:40 (include)"
-      - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6/Qt6Config.cmake:237 (find_package)"
-      - "CMakeLists.txt:10 (find_package)"
-    name: "Qt6OpenGL"
-    configs:
-      -
-        filename: "Qt6OpenGLConfig.cmake"
-        kind: "cmake"
-      -
-        filename: "qt6opengl-config.cmake"
-        kind: "cmake"
-    version_request:
-      version: "6.10.1"
-      version_complete: "6.10.1"
-      exact: false
-    settings:
-      required: "optional"
-      quiet: false
-      global: false
-      policy_scope: true
-      bypass_provider: false
-      names:
-        - "Qt6OpenGL"
-      search_paths:
-        - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6Quick/.."
-        - "C:/Qt/6.10.1/mingw_64/lib/cmake"
-      path_suffixes:
-        - ""
-      paths:
-        CMAKE_FIND_USE_CMAKE_PATH: false
-        CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: true
-        CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
-        CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
-        CMAKE_FIND_USE_INSTALL_PREFIX: true
-        CMAKE_FIND_USE_PACKAGE_ROOT_PATH: true
-        CMAKE_FIND_USE_CMAKE_PACKAGE_REGISTRY: true
-        CMAKE_FIND_USE_SYSTEM_PACKAGE_REGISTRY: true
-        CMAKE_FIND_ROOT_PATH_MODE: "BOTH"
-    candidates:
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6OpenGLConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/qt6opengl-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6OpenGLWidgets/Qt6OpenGLConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6OpenGLWidgets/qt6opengl-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6OpenGLPrivate/Qt6OpenGLConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6OpenGLPrivate/qt6opengl-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-    found:
-      path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6OpenGL/Qt6OpenGLConfig.cmake"
-      mode: "config"
-      version: "6.10.1"
-    search_context:
-      CMAKE_PREFIX_PATH:
-        - "C:/Qt/6.10.1/mingw_64/lib/cmake"
-        - "C:/Qt/6.10.1/mingw_64/lib/cmake"
-      ENV{PATH}:
-        - "c:\\Qt\\Tools\\mingw1310_64\\bin"
-        - "c:\\Qt\\6.10.1\\mingw_64\\bin"
-        - "C:/Program Files/Common Files/Oracle/Java/javapath"
-        - "C:\\WINDOWS\\system32"
-        - "C:/WINDOWS"
-        - "C:\\WINDOWS\\System32\\Wbem"
-        - "C:/WINDOWS/System32/WindowsPowerShell/v1.0/"
-        - "C:\\WINDOWS\\System32\\OpenSSH\\"
-        - "C:/Program Files/Git/cmd"
-        - "C:\\Program Files\\CMake\\bin"
-        - "C:/Users/anura/AppData/Local/Microsoft/WindowsApps"
-        - "C:\\Users\\anura\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
-        - "C:/Qt/6.10.1/mingw_64/bin"
-        - "c:\\Qt\\Tools\\Ninja"
-        - "c:\\Qt\\Tools\\mingw1310_64\\bin"
-      CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/FlowTrack"
-      CMAKE_SYSTEM_PREFIX_PATH:
-        - "C:/Program Files"
-        - "C:/Program Files (x86)"
-        - "C:/Program Files/CMake"
-        - "C:/Program Files (x86)/FlowTrack"
-      CMAKE_FIND_ROOT_PATH: "C:/Qt/6.10.1/mingw_64;C:/Qt/6.10.1/mingw_64"
-  -
-    kind: "find_package-v1"
-    backtrace:
-      - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6/Qt6Config.cmake:237 (find_package)"
-      - "CMakeLists.txt:10 (find_package)"
-    name: "Qt6Quick"
-    configs:
-      -
-        filename: "Qt6QuickConfig.cmake"
-        kind: "cmake"
-      -
-        filename: "qt6quick-config.cmake"
-        kind: "cmake"
-    version_request:
-      exact: false
-    settings:
-      required: "optional"
-      quiet: false
-      global: false
-      policy_scope: true
-      bypass_provider: false
-      names:
-        - "Qt6Quick"
-      search_paths:
-        - "C:/Qt/6.10.1/mingw_64/lib/cmake"
-      path_suffixes:
-        - ""
-      paths:
-        CMAKE_FIND_USE_CMAKE_PATH: false
-        CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: true
-        CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
-        CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
-        CMAKE_FIND_USE_INSTALL_PREFIX: true
-        CMAKE_FIND_USE_PACKAGE_ROOT_PATH: true
-        CMAKE_FIND_USE_CMAKE_PACKAGE_REGISTRY: true
-        CMAKE_FIND_USE_SYSTEM_PACKAGE_REGISTRY: true
-        CMAKE_FIND_ROOT_PATH_MODE: "BOTH"
-    candidates:
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QuickConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/qt6quick-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QuickWidgetsPrivate/Qt6QuickConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QuickWidgetsPrivate/qt6quick-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QuickWidgets/Qt6QuickConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QuickWidgets/qt6quick-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QuickVectorImagePrivate/Qt6QuickConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QuickVectorImagePrivate/qt6quick-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QuickVectorImageHelpersPrivate/Qt6QuickConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QuickVectorImageHelpersPrivate/qt6quick-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QuickVectorImageHelpers/Qt6QuickConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QuickVectorImageHelpers/qt6quick-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QuickVectorImageGeneratorPrivate/Qt6QuickConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QuickVectorImageGeneratorPrivate/qt6quick-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QuickVectorImage/Qt6QuickConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QuickVectorImage/qt6quick-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QuickTools/Qt6QuickConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QuickTools/qt6quick-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QuickTimelinePrivate/Qt6QuickConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QuickTimelinePrivate/qt6quick-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QuickTimelineBlendTreesPrivate/Qt6QuickConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QuickTimelineBlendTreesPrivate/qt6quick-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QuickTimelineBlendTrees/Qt6QuickConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QuickTimelineBlendTrees/qt6quick-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QuickTimeline/Qt6QuickConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QuickTimeline/qt6quick-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QuickTestUtilsPrivate/Qt6QuickConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QuickTestUtilsPrivate/qt6quick-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QuickTestPrivate/Qt6QuickConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QuickTestPrivate/qt6quick-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QuickTest/Qt6QuickConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QuickTest/qt6quick-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QuickTemplates2Private/Qt6QuickConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QuickTemplates2Private/qt6quick-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QuickTemplates2/Qt6QuickConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QuickTemplates2/qt6quick-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QuickShapesPrivate/Qt6QuickConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QuickShapesPrivate/qt6quick-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QuickShapesDesignHelpersPrivate/Qt6QuickConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QuickShapesDesignHelpersPrivate/qt6quick-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QuickPrivate/Qt6QuickConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QuickPrivate/qt6quick-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QuickParticlesPrivate/Qt6QuickConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QuickParticlesPrivate/qt6quick-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QuickLayoutsPrivate/Qt6QuickConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QuickLayoutsPrivate/qt6quick-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QuickLayouts/Qt6QuickConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QuickLayouts/qt6quick-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QuickEffectsPrivate/Qt6QuickConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QuickEffectsPrivate/qt6quick-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QuickEffects/Qt6QuickConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QuickEffects/qt6quick-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QuickDialogs2UtilsPrivate/Qt6QuickConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QuickDialogs2UtilsPrivate/qt6quick-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QuickDialogs2Utils/Qt6QuickConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QuickDialogs2Utils/qt6quick-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QuickDialogs2QuickImplPrivate/Qt6QuickConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QuickDialogs2QuickImplPrivate/qt6quick-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QuickDialogs2QuickImpl/Qt6QuickConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QuickDialogs2QuickImpl/qt6quick-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QuickDialogs2Private/Qt6QuickConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QuickDialogs2Private/qt6quick-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QuickDialogs2/Qt6QuickConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QuickDialogs2/qt6quick-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QuickControlsTestUtilsPrivate/Qt6QuickConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QuickControlsTestUtilsPrivate/qt6quick-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QuickControls2WindowsStyleImpl/Qt6QuickConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QuickControls2WindowsStyleImpl/qt6quick-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QuickControls2UniversalStyleImplPrivate/Qt6QuickConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QuickControls2UniversalStyleImplPrivate/qt6quick-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QuickControls2UniversalStyleImpl/Qt6QuickConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QuickControls2UniversalStyleImpl/qt6quick-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QuickControls2UniversalPrivate/Qt6QuickConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QuickControls2UniversalPrivate/qt6quick-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QuickControls2Universal/Qt6QuickConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QuickControls2Universal/qt6quick-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QuickControls2Private/Qt6QuickConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QuickControls2Private/qt6quick-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QuickControls2MaterialStyleImplPrivate/Qt6QuickConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QuickControls2MaterialStyleImplPrivate/qt6quick-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QuickControls2MaterialStyleImpl/Qt6QuickConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QuickControls2MaterialStyleImpl/qt6quick-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QuickControls2MaterialPrivate/Qt6QuickConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QuickControls2MaterialPrivate/qt6quick-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QuickControls2Material/Qt6QuickConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QuickControls2Material/qt6quick-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QuickControls2ImplPrivate/Qt6QuickConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QuickControls2ImplPrivate/qt6quick-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QuickControls2Impl/Qt6QuickConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QuickControls2Impl/qt6quick-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QuickControls2ImagineStyleImpl/Qt6QuickConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QuickControls2ImagineStyleImpl/qt6quick-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QuickControls2ImaginePrivate/Qt6QuickConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QuickControls2ImaginePrivate/qt6quick-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QuickControls2Imagine/Qt6QuickConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QuickControls2Imagine/qt6quick-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QuickControls2FusionStyleImplPrivate/Qt6QuickConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QuickControls2FusionStyleImplPrivate/qt6quick-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QuickControls2FusionStyleImpl/Qt6QuickConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QuickControls2FusionStyleImpl/qt6quick-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QuickControls2FusionPrivate/Qt6QuickConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QuickControls2FusionPrivate/qt6quick-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QuickControls2Fusion/Qt6QuickConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QuickControls2Fusion/qt6quick-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QuickControls2FluentWinUI3StyleImplPrivate/Qt6QuickConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QuickControls2FluentWinUI3StyleImplPrivate/qt6quick-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QuickControls2FluentWinUI3StyleImpl/Qt6QuickConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QuickControls2FluentWinUI3StyleImpl/qt6quick-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QuickControls2BasicStyleImplPrivate/Qt6QuickConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QuickControls2BasicStyleImplPrivate/qt6quick-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QuickControls2BasicStyleImpl/Qt6QuickConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QuickControls2BasicStyleImpl/qt6quick-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QuickControls2BasicPrivate/Qt6QuickConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QuickControls2BasicPrivate/qt6quick-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QuickControls2Basic/Qt6QuickConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QuickControls2Basic/qt6quick-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QuickControls2/Qt6QuickConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6QuickControls2/qt6quick-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6Quick3DXrPrivate/Qt6QuickConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6Quick3DXrPrivate/qt6quick-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6Quick3DXr/Qt6QuickConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6Quick3DXr/qt6quick-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6Quick3DUtilsPrivate/Qt6QuickConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6Quick3DUtilsPrivate/qt6quick-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6Quick3DUtils/Qt6QuickConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6Quick3DUtils/qt6quick-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6Quick3DTools/Qt6QuickConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6Quick3DTools/qt6quick-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6Quick3DSpatialAudioPrivate/Qt6QuickConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6Quick3DSpatialAudioPrivate/qt6quick-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6Quick3DRuntimeRenderPrivate/Qt6QuickConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6Quick3DRuntimeRenderPrivate/qt6quick-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6Quick3DRuntimeRender/Qt6QuickConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6Quick3DRuntimeRender/qt6quick-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6Quick3DPrivate/Qt6QuickConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6Quick3DPrivate/qt6quick-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6Quick3DParticlesPrivate/Qt6QuickConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6Quick3DParticlesPrivate/qt6quick-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6Quick3DParticles/Qt6QuickConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6Quick3DParticles/qt6quick-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6Quick3DParticleEffects/Qt6QuickConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6Quick3DParticleEffects/qt6quick-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6Quick3DIblBakerPrivate/Qt6QuickConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6Quick3DIblBakerPrivate/qt6quick-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6Quick3DIblBaker/Qt6QuickConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6Quick3DIblBaker/qt6quick-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6Quick3DHelpersPrivate/Qt6QuickConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6Quick3DHelpersPrivate/qt6quick-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6Quick3DHelpersImplPrivate/Qt6QuickConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6Quick3DHelpersImplPrivate/qt6quick-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6Quick3DHelpersImpl/Qt6QuickConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6Quick3DHelpersImpl/qt6quick-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6Quick3DHelpers/Qt6QuickConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6Quick3DHelpers/qt6quick-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6Quick3DGlslParserPrivate/Qt6QuickConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6Quick3DGlslParserPrivate/qt6quick-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6Quick3DEffects/Qt6QuickConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6Quick3DEffects/qt6quick-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6Quick3DAssetUtilsPrivate/Qt6QuickConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6Quick3DAssetUtilsPrivate/qt6quick-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6Quick3DAssetUtils/Qt6QuickConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6Quick3DAssetUtils/qt6quick-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6Quick3DAssetImportPrivate/Qt6QuickConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6Quick3DAssetImportPrivate/qt6quick-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6Quick3DAssetImport/Qt6QuickConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6Quick3DAssetImport/qt6quick-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6Quick3D/Qt6QuickConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6Quick3D/qt6quick-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-    found:
-      path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6Quick/Qt6QuickConfig.cmake"
-      mode: "config"
-      version: "6.10.1"
-    search_context:
-      CMAKE_PREFIX_PATH:
-        - "C:/Qt/6.10.1/mingw_64/lib/cmake"
-        - "C:/Qt/6.10.1/mingw_64/lib/cmake"
-      ENV{PATH}:
-        - "c:\\Qt\\Tools\\mingw1310_64\\bin"
-        - "c:\\Qt\\6.10.1\\mingw_64\\bin"
-        - "C:/Program Files/Common Files/Oracle/Java/javapath"
-        - "C:\\WINDOWS\\system32"
-        - "C:/WINDOWS"
-        - "C:\\WINDOWS\\System32\\Wbem"
-        - "C:/WINDOWS/System32/WindowsPowerShell/v1.0/"
-        - "C:\\WINDOWS\\System32\\OpenSSH\\"
-        - "C:/Program Files/Git/cmd"
-        - "C:\\Program Files\\CMake\\bin"
-        - "C:/Users/anura/AppData/Local/Microsoft/WindowsApps"
-        - "C:\\Users\\anura\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
-        - "C:/Qt/6.10.1/mingw_64/bin"
-        - "c:\\Qt\\Tools\\Ninja"
-        - "c:\\Qt\\Tools\\mingw1310_64\\bin"
-      CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/FlowTrack"
-      CMAKE_SYSTEM_PREFIX_PATH:
-        - "C:/Program Files"
-        - "C:/Program Files (x86)"
-        - "C:/Program Files/CMake"
-        - "C:/Program Files (x86)/FlowTrack"
-      CMAKE_FIND_ROOT_PATH: "C:/Qt/6.10.1/mingw_64;C:/Qt/6.10.1/mingw_64"
-  -
-    kind: "find_package-v1"
-    backtrace:
-      - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6/Qt6Config.cmake:237 (find_package)"
-      - "CMakeLists.txt:10 (find_package)"
-    name: "Qt6Sql"
-    configs:
-      -
-        filename: "Qt6SqlConfig.cmake"
-        kind: "cmake"
-      -
-        filename: "qt6sql-config.cmake"
-        kind: "cmake"
-    version_request:
-      exact: false
-    settings:
-      required: "optional"
-      quiet: false
-      global: false
-      policy_scope: true
-      bypass_provider: false
-      names:
-        - "Qt6Sql"
-      search_paths:
-        - "C:/Qt/6.10.1/mingw_64/lib/cmake"
-      path_suffixes:
-        - ""
-      paths:
-        CMAKE_FIND_USE_CMAKE_PATH: false
-        CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: true
-        CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
-        CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
-        CMAKE_FIND_USE_INSTALL_PREFIX: true
-        CMAKE_FIND_USE_PACKAGE_ROOT_PATH: true
-        CMAKE_FIND_USE_CMAKE_PACKAGE_REGISTRY: true
-        CMAKE_FIND_USE_SYSTEM_PACKAGE_REGISTRY: true
-        CMAKE_FIND_ROOT_PATH_MODE: "BOTH"
-    candidates:
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6SqlConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/qt6sql-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6SqlPrivate/Qt6SqlConfig.cmake"
-        mode: "config"
-        reason: "no_exist"
-      -
-        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6SqlPrivate/qt6sql-config.cmake"
-        mode: "config"
-        reason: "no_exist"
-    found:
-      path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6Sql/Qt6SqlConfig.cmake"
-      mode: "config"
-      version: "6.10.1"
-    search_context:
-      CMAKE_PREFIX_PATH:
-        - "C:/Qt/6.10.1/mingw_64/lib/cmake"
-        - "C:/Qt/6.10.1/mingw_64/lib/cmake"
-      ENV{PATH}:
-        - "c:\\Qt\\Tools\\mingw1310_64\\bin"
-        - "c:\\Qt\\6.10.1\\mingw_64\\bin"
-        - "C:/Program Files/Common Files/Oracle/Java/javapath"
-        - "C:\\WINDOWS\\system32"
-        - "C:/WINDOWS"
-        - "C:\\WINDOWS\\System32\\Wbem"
-        - "C:/WINDOWS/System32/WindowsPowerShell/v1.0/"
-        - "C:\\WINDOWS\\System32\\OpenSSH\\"
-        - "C:/Program Files/Git/cmd"
-        - "C:\\Program Files\\CMake\\bin"
-        - "C:/Users/anura/AppData/Local/Microsoft/WindowsApps"
-        - "C:\\Users\\anura\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
-        - "C:/Qt/6.10.1/mingw_64/bin"
-        - "c:\\Qt\\Tools\\Ninja"
-        - "c:\\Qt\\Tools\\mingw1310_64\\bin"
-      CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/FlowTrack"
-      CMAKE_SYSTEM_PREFIX_PATH:
-        - "C:/Program Files"
-        - "C:/Program Files (x86)"
-        - "C:/Program Files/CMake"
-        - "C:/Program Files (x86)/FlowTrack"
+        - "C:/Program Files (x86)/flowTrack"
       CMAKE_FIND_ROOT_PATH: "C:/Qt/6.10.1/mingw_64;C:/Qt/6.10.1/mingw_64"
   -
     kind: "find_package-v1"
@@ -8496,27 +6342,7 @@ events:
     name: "Qt6"
     components:
       -
-        name: "Core"
-        required: true
-        found: false
-      -
-        name: "Gui"
-        required: true
-        found: false
-      -
-        name: "Qml"
-        required: true
-        found: false
-      -
-        name: "Quick"
-        required: true
-        found: false
-      -
-        name: "Sql"
-        required: true
-        found: false
-      -
-        name: "Network"
+        name: "Widgets"
         required: true
         found: false
     configs:
@@ -10253,16 +8079,186 @@ events:
         - "C:/Qt/6.10.1/mingw_64/bin"
         - "c:\\Qt\\Tools\\Ninja"
         - "c:\\Qt\\Tools\\mingw1310_64\\bin"
-      CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/FlowTrack"
+      CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/flowTrack"
       CMAKE_SYSTEM_PREFIX_PATH:
         - "C:/Program Files"
         - "C:/Program Files (x86)"
         - "C:/Program Files/CMake"
-        - "C:/Program Files (x86)/FlowTrack"
+        - "C:/Program Files (x86)/flowTrack"
       CMAKE_FIND_ROOT_PATH: "C:/Qt/6.10.1/mingw_64;C:/Qt/6.10.1/mingw_64"
       CMAKE_MODULE_PATH:
         - "c:/Qt/6.10.1/mingw_64/lib/cmake/Qt6/platforms"
         - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6"
         - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6/3rdparty/extra-cmake-modules/find-modules"
         - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6/3rdparty/kwin"
+  -
+    kind: "find_package-v1"
+    backtrace:
+      - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6/Qt6Config.cmake:237 (find_package)"
+      - "CMakeLists.txt:11 (find_package)"
+    name: "Qt6Network"
+    configs:
+      -
+        filename: "Qt6NetworkConfig.cmake"
+        kind: "cmake"
+      -
+        filename: "qt6network-config.cmake"
+        kind: "cmake"
+    version_request:
+      exact: false
+    settings:
+      required: "optional"
+      quiet: false
+      global: false
+      policy_scope: true
+      bypass_provider: false
+      names:
+        - "Qt6Network"
+      search_paths:
+        - "C:/Qt/6.10.1/mingw_64/lib/cmake"
+      path_suffixes:
+        - ""
+      paths:
+        CMAKE_FIND_USE_CMAKE_PATH: false
+        CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: true
+        CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+        CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
+        CMAKE_FIND_USE_INSTALL_PREFIX: true
+        CMAKE_FIND_USE_PACKAGE_ROOT_PATH: true
+        CMAKE_FIND_USE_CMAKE_PACKAGE_REGISTRY: true
+        CMAKE_FIND_USE_SYSTEM_PACKAGE_REGISTRY: true
+        CMAKE_FIND_ROOT_PATH_MODE: "BOTH"
+    candidates:
+      -
+        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6NetworkConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/qt6network-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6NetworkPrivate/Qt6NetworkConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6NetworkPrivate/qt6network-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+    found:
+      path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6Network/Qt6NetworkConfig.cmake"
+      mode: "config"
+      version: "6.10.1"
+    search_context:
+      CMAKE_PREFIX_PATH:
+        - "C:/Qt/6.10.1/mingw_64/lib/cmake"
+        - "C:/Qt/6.10.1/mingw_64/lib/cmake"
+      ENV{PATH}:
+        - "c:\\Qt\\Tools\\mingw1310_64\\bin"
+        - "c:\\Qt\\6.10.1\\mingw_64\\bin"
+        - "C:/Program Files/Common Files/Oracle/Java/javapath"
+        - "C:\\WINDOWS\\system32"
+        - "C:/WINDOWS"
+        - "C:\\WINDOWS\\System32\\Wbem"
+        - "C:/WINDOWS/System32/WindowsPowerShell/v1.0/"
+        - "C:\\WINDOWS\\System32\\OpenSSH\\"
+        - "C:/Program Files/Git/cmd"
+        - "C:\\Program Files\\CMake\\bin"
+        - "C:/Users/anura/AppData/Local/Microsoft/WindowsApps"
+        - "C:\\Users\\anura\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
+        - "C:/Qt/6.10.1/mingw_64/bin"
+        - "c:\\Qt\\Tools\\Ninja"
+        - "c:\\Qt\\Tools\\mingw1310_64\\bin"
+      CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/flowTrack"
+      CMAKE_SYSTEM_PREFIX_PATH:
+        - "C:/Program Files"
+        - "C:/Program Files (x86)"
+        - "C:/Program Files/CMake"
+        - "C:/Program Files (x86)/flowTrack"
+      CMAKE_FIND_ROOT_PATH: "C:/Qt/6.10.1/mingw_64;C:/Qt/6.10.1/mingw_64"
+  -
+    kind: "find_package-v1"
+    backtrace:
+      - "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6/Qt6Config.cmake:237 (find_package)"
+      - "CMakeLists.txt:11 (find_package)"
+    name: "Qt6Sql"
+    configs:
+      -
+        filename: "Qt6SqlConfig.cmake"
+        kind: "cmake"
+      -
+        filename: "qt6sql-config.cmake"
+        kind: "cmake"
+    version_request:
+      exact: false
+    settings:
+      required: "optional"
+      quiet: false
+      global: false
+      policy_scope: true
+      bypass_provider: false
+      names:
+        - "Qt6Sql"
+      search_paths:
+        - "C:/Qt/6.10.1/mingw_64/lib/cmake"
+      path_suffixes:
+        - ""
+      paths:
+        CMAKE_FIND_USE_CMAKE_PATH: false
+        CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: true
+        CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+        CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
+        CMAKE_FIND_USE_INSTALL_PREFIX: true
+        CMAKE_FIND_USE_PACKAGE_ROOT_PATH: true
+        CMAKE_FIND_USE_CMAKE_PACKAGE_REGISTRY: true
+        CMAKE_FIND_USE_SYSTEM_PACKAGE_REGISTRY: true
+        CMAKE_FIND_ROOT_PATH_MODE: "BOTH"
+    candidates:
+      -
+        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6SqlConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/qt6sql-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6SqlPrivate/Qt6SqlConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6SqlPrivate/qt6sql-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+    found:
+      path: "C:/Qt/6.10.1/mingw_64/lib/cmake/Qt6Sql/Qt6SqlConfig.cmake"
+      mode: "config"
+      version: "6.10.1"
+    search_context:
+      CMAKE_PREFIX_PATH:
+        - "C:/Qt/6.10.1/mingw_64/lib/cmake"
+        - "C:/Qt/6.10.1/mingw_64/lib/cmake"
+      ENV{PATH}:
+        - "c:\\Qt\\Tools\\mingw1310_64\\bin"
+        - "c:\\Qt\\6.10.1\\mingw_64\\bin"
+        - "C:/Program Files/Common Files/Oracle/Java/javapath"
+        - "C:\\WINDOWS\\system32"
+        - "C:/WINDOWS"
+        - "C:\\WINDOWS\\System32\\Wbem"
+        - "C:/WINDOWS/System32/WindowsPowerShell/v1.0/"
+        - "C:\\WINDOWS\\System32\\OpenSSH\\"
+        - "C:/Program Files/Git/cmd"
+        - "C:\\Program Files\\CMake\\bin"
+        - "C:/Users/anura/AppData/Local/Microsoft/WindowsApps"
+        - "C:\\Users\\anura\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
+        - "C:/Qt/6.10.1/mingw_64/bin"
+        - "c:\\Qt\\Tools\\Ninja"
+        - "c:\\Qt\\Tools\\mingw1310_64\\bin"
+      CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/flowTrack"
+      CMAKE_SYSTEM_PREFIX_PATH:
+        - "C:/Program Files"
+        - "C:/Program Files (x86)"
+        - "C:/Program Files/CMake"
+        - "C:/Program Files (x86)/flowTrack"
+      CMAKE_FIND_ROOT_PATH: "C:/Qt/6.10.1/mingw_64;C:/Qt/6.10.1/mingw_64"
 ...

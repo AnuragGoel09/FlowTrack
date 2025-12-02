@@ -1,0 +1,52 @@
+QWidget#MainContentWidget,
+QWidget#centralWidget {
+    background-color: #1d1d1f;
+}
+
+QMainWindow#MainWindow{
+    background-color: #18181a;
+}
+
+QWidget#navbarWidget {
+    background-color: #18181a;
+    /* border-right: 1px solid black; */
+}
+
+QPushButton#branchNavButton,
+QPushButton#commitsNavButton,
+QPushButton#repositoriesNavButton {
+    padding: 8px;
+    text-align: left;
+    background: transparent;
+    border: none;
+    color: #a2a2a2;
+    font-size: 15px;
+    border-radius: 6px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 500;
+    letter-spacing: 0.5px;
+}
+
+QPushButton#branchNavButton:hover,
+QPushButton#commitsNavButton:hover,
+QPushButton#repositoriesNavButton:hover {
+    background-color: #2e3131;
+}
+
+QPushButton#connectButton{
+    padding: 8px;
+    text-align: center;
+    background: #0779FF;
+    border: none;
+    color: white;
+    font-size: 15px;
+    border-radius: 6px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 500;
+    letter-spacing: 0.3px;
+    opacity: 0.5;
+}
+
+QPushButton#connectButton:hover{
+    background-color: #005ecd;
+}

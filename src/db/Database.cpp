@@ -2,9 +2,12 @@
 #include <QSqlQuery>
 #include <QVariant>
 #include <QSqlError>
+#include <QStandardPaths>
 #include <QDebug>
 #include <QDir>
 #include <QFile>
+
+QString DB_FILENAME = "flowTrack-db";
 
 Database::Database(const QString &path): _path(path)
 {
@@ -22,6 +25,37 @@ Database::Database(const QString &path): _path(path)
 Database::~Database() {
     if (_db.isOpen()) _db.close();
     QSqlDatabase::removeDatabase("flowTrack_connection");
+}
+
+void Database::initDefault() {
+    QString appData = QStandardPaths::writableLocation(QStandardPaths::HomeLocation) + "/.flowTrack";
+    QDir().mkpath(appData);
+    QString dbPath = appData + "/" + DB_FILENAME;
+
+    QSqlDatabase db = QSqlDatabase::addDatabase("QSQLITE", "flowtrack_connection");
+    db.setDatabaseName(dbPath);
+    if (!db.open()) {
+        qWarning() << "Failed to open DB:" << db.lastError().text();
+        return;
+    }
+
+    QSqlQuery q(db);
+    if (!q.exec(R"(
+        CREATE TABLE IF NOT EXISTS repositories (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            repo_id TEXT UNIQUE,
+            remote_url TEXT,
+            path TEXT,
+            name TEXT,
+            created_at DATETIME DEFAULT CURRENT_TIMESTAMP
+        )"
+    )){
+        qWarning() << "Failed to create repositories table:" << q.lastError().text();
+    }
+}
+
+QSqlDatabase Database::defaultConnection() {
+    return QSqlDatabase::database("flowtrack_connection");
 }
 
 void Database::migrateIfNeeded() {

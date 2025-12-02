@@ -1,22 +1,18 @@
-#include <QGuiApplication>
-#include <QQmlApplicationEngine>
+#include <QApplication>
+#include <QFile>
 #include "app/App.h"
+#include "dashboard/inc/mainwindow.h"
 
 int main(int argc, char *argv[])
 {
-    QGuiApplication app(argc, argv);
-
-    App::instance()->start(); // starts DB, processor and server
-
-    QQmlApplicationEngine engine;
-    engine.load(QUrl(QStringLiteral("qrc:/Main.qml")));
-    // Fallback: debug if empty
-    if (engine.rootObjects().isEmpty()) {
-        qDebug() << "Failed to load QML";
-        return -1;
-}
-    if (engine.rootObjects().isEmpty())
-        return -1;
+    QApplication app(argc, argv);
+    QFile styleFile(":/resources/style.qss");
+    styleFile.open(QFile::ReadOnly);
+    app.setStyleSheet(styleFile.readAll());
+    App::instance()->start(); // backend still starts same
+    
+    MainWindow w;
+    w.show();
 
     int ret = app.exec();
 
