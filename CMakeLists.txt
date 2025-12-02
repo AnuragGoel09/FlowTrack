@@ -12,6 +12,10 @@ find_package(Qt6 REQUIRED COMPONENTS Widgets Core Network Sql)
 
 qt_add_resources(RESOURCES resources.qrc)
 
+set(CMAKE_AUTOUIC_SEARCH_PATHS
+    ${CMAKE_CURRENT_SOURCE_DIR}/src/dashboard/ui
+)
+
 add_executable(flowTrack
     src/main.cpp
     src/dashboard/ui/RegisterRepoDialog.ui

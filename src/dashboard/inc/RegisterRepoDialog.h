@@ -1,5 +1,5 @@
-#ifndef REGISTERREPODIALOG_H
-#define REGISTERREPODIALOG_H
+#ifndef REGISTERREPO_DIALOG_H
+#define REGISTERREPO_DIALOG_H
 
 #include <QDialog>
 
@@ -16,8 +16,8 @@ public:
     ~RegisterRepoDialog();
 
 private slots:
-    void on_browseBtn_clicked();
-    void on_submitBtn_clicked();
+    void on_buttonBox_accepted();
+    void on_browseButton_clicked();
 
 private:
     Ui::RegisterRepoDialog *ui;
