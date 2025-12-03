@@ -14,16 +14,22 @@ qt_add_resources(RESOURCES resources.qrc)
 
 set(CMAKE_AUTOUIC_SEARCH_PATHS
     ${CMAKE_CURRENT_SOURCE_DIR}/src/dashboard/ui
+    ${CMAKE_CURRENT_SOURCE_DIR}/src/repositories/ui
 )
 
 add_executable(flowTrack
     src/main.cpp
     src/dashboard/ui/RegisterRepoDialog.ui
     src/dashboard/ui/mainwindow.ui
+    src/repositories/ui/RepositoriesPage.ui
+
     src/dashboard/inc/RegisterRepoDialog.h
     src/dashboard/inc/mainwindow.h
+    src/repositories/inc/RepositoriesPage.h
+
     src/dashboard/src/RegisterRepoDialog.cpp
     src/dashboard/src/mainwindow.cpp
+    src/repositories/src/RepositoriesPage.cpp
     src/controller/AppController.cpp
     src/controller/AppController.h
     src/app/App.h
@@ -41,6 +47,7 @@ add_executable(flowTrack
 target_include_directories(flowTrack PRIVATE
     ${CMAKE_CURRENT_SOURCE_DIR}/src/controller
     ${CMAKE_CURRENT_SOURCE_DIR}/src/dashboard/inc
+    ${CMAKE_CURRENT_SOURCE_DIR}/src/repositories/inc
      ${CMAKE_CURRENT_SOURCE_DIR}/src/dashboard/ui 
     ${CMAKE_CURRENT_SOURCE_DIR}/src/db
 )

@@ -27,31 +27,58 @@ Database::~Database() {
     QSqlDatabase::removeDatabase("flowTrack_connection");
 }
 
-void Database::initDefault() {
-    QString appData = QStandardPaths::writableLocation(QStandardPaths::HomeLocation) + "/.flowTrack";
-    QDir().mkpath(appData);
-    QString dbPath = appData + "/" + DB_FILENAME;
+bool Database::initDefault() {
+    
+    QString dbDir = QStandardPaths::writableLocation(QStandardPaths::AppDataLocation);
+    QDir dir(dbDir);
 
-    QSqlDatabase db = QSqlDatabase::addDatabase("QSQLITE", "flowtrack_connection");
-    db.setDatabaseName(dbPath);
-    if (!db.open()) {
-        qWarning() << "Failed to open DB:" << db.lastError().text();
-        return;
+    if (!dir.exists()) {
+        dir.mkpath(".");  // <-- Create full path first
     }
 
-    QSqlQuery q(db);
-    if (!q.exec(R"(
+    QSqlDatabase db = QSqlDatabase::addDatabase("QSQLITE");
+    QString dbPath = dbDir + "/flowTrack.db";
+
+    db.setDatabaseName(dbPath);
+
+    if (!db.open()) {
+        qDebug() << "DB Open error:" << db.lastError().text();
+        return false;
+    }
+
+    QSqlQuery query;
+
+    // Create repositories table
+    QString createRepoTable = R"(
         CREATE TABLE IF NOT EXISTS repositories (
             id INTEGER PRIMARY KEY AUTOINCREMENT,
-            repo_id TEXT UNIQUE,
-            remote_url TEXT,
-            path TEXT,
-            name TEXT,
-            created_at DATETIME DEFAULT CURRENT_TIMESTAMP
-        )"
-    )){
-        qWarning() << "Failed to create repositories table:" << q.lastError().text();
+            repoName TEXT NOT NULL,
+            repoPath TEXT NOT NULL UNIQUE,
+            createdOn DATETIME DEFAULT CURRENT_TIMESTAMP
+        )
+    )";
+
+    if (!query.exec(createRepoTable)) {
+        qDebug() << "Repo Table Error:" << query.lastError().text();
+        return false;
     }
+
+    // Create offline queue table
+    QString createQueueTable = R"(
+        CREATE TABLE IF NOT EXISTS eventQueue (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            jsonData TEXT NOT NULL,
+            createdOn DATETIME DEFAULT CURRENT_TIMESTAMP,
+            status TEXT DEFAULT 'queued'
+        )
+    )";
+
+    if (!query.exec(createQueueTable)) {
+        qDebug() << "Queue Table Error:" << query.lastError().text();
+        return false;
+    }
+
+    return true;
 }
 
 QSqlDatabase Database::defaultConnection() {

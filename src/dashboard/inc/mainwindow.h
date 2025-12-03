@@ -2,6 +2,7 @@
 #define MAINWINDOW_H
 
 #include <QMainWindow>
+#include <QPushButton>
 #include <QPropertyAnimation>
 #include "AppController.h"
 
@@ -22,12 +23,14 @@ public:
 private slots:
     void toggleNavbar();
     void on_connectButton_clicked();
+    void setActiveTab(QPushButton *activeButton);
 
 private:
     Ui::MainWindow *ui;
     bool isCollapsed = false;
     AppController* controller;
     QPropertyAnimation *animation;
+
 
 };
 #endif // MAINWINDOW_H

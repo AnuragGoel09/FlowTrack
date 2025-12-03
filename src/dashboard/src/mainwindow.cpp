@@ -1,6 +1,8 @@
 #include "mainwindow.h"
+#include "RepositoriesPage.h"
 #include "../ui/ui_mainwindow.h"
 #include "registerrepodialog.h"
+#include <QSqlQueryModel>
 
 MainWindow::MainWindow(QWidget *parent)
     : QMainWindow(parent)
@@ -16,8 +18,18 @@ MainWindow::MainWindow(QWidget *parent)
     animation->setDuration(250);               // animation speed
     animation->setEasingCurve(QEasingCurve::InOutCubic);
 
+    setActiveTab(ui->repositoriesNavButton);
+
+    RepositoriesPage *repoWidget = new RepositoriesPage();
+
+    // Show repo widget by default
+    ui->mainContentStackedWidget->setCurrentIndex(0);
+
     // Connect the toggle button click to collapse/expand
     connect(ui->toggleButton, &QPushButton::clicked, this, &MainWindow::toggleNavbar);
+    connect(ui->repositoriesNavButton, &QPushButton::clicked, this, [this]() { setActiveTab(ui->repositoriesNavButton); });
+    connect(ui->branchNavButton, &QPushButton::clicked, this, [this]() { setActiveTab(ui->branchNavButton); });
+    connect(ui->commitsNavButton, &QPushButton::clicked, this, [this]() { setActiveTab(ui->commitsNavButton); });
 }
 
 MainWindow::~MainWindow()
@@ -57,5 +69,27 @@ void MainWindow::on_connectButton_clicked()
 {
     RegisterRepoDialog dialog(this);
     dialog.exec();
+}
+
+void MainWindow::setActiveTab(QPushButton *activeButton) {
+    QList<QPushButton*> buttons = { ui->repositoriesNavButton, ui->branchNavButton, ui->commitsNavButton };
+    for (auto btn : buttons) {
+        btn->setChecked(btn == activeButton);
+    }
+
+    // Toggle stacked pages
+    if (activeButton == ui->repositoriesNavButton) {
+        ui->mainContentStackedWidget->setCurrentIndex(0);
+        RepositoriesPage *repoWidget = qobject_cast<RepositoriesPage*>(
+            ui->mainContentStackedWidget->currentWidget()
+        );
+        if (repoWidget) {
+            repoWidget->loadRepositories();
+        }
+    } else if (activeButton == ui->repositoriesNavButton) {
+        ui->mainContentStackedWidget->setCurrentIndex(1);
+    } else if (activeButton == ui->repositoriesNavButton) {
+        ui->mainContentStackedWidget->setCurrentIndex(2);
+    }
 }
 

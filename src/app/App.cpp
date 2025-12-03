@@ -17,10 +17,10 @@ App::App(QObject* parent): QObject(parent) {}
 
 void App::start() {
     // Ensure data dir exists
-    QString appData = QStandardPaths::writableLocation(QStandardPaths::HomeLocation) + "/.flowTrack";
+    QString appData = QStandardPaths::writableLocation(QStandardPaths::AppDataLocation);
     QDir().mkpath(appData);
 
-    _db = std::make_unique<Database>(appData + "/db.sqlite");
+    _db = std::make_unique<Database>(appData + "/flowTrack.db");
     _db->migrateIfNeeded();
 
     _processor = std::make_unique<EventProcessor>(_db.get());

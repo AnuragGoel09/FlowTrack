@@ -9,7 +9,7 @@ public:
     
     void migrateIfNeeded();
 
-    static void initDefault(); // open/create DB and tables
+    static bool initDefault(); // open/create DB and tables
     static QSqlDatabase defaultConnection();
 
     bool insertCommit(const QString& hash, const QString& branch, const QString& message, const QString& author, const QString& timestamp);

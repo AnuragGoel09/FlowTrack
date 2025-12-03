@@ -6,6 +6,10 @@
 int main(int argc, char *argv[])
 {
     QApplication app(argc, argv);
+    if(!Database::initDefault()){
+        qDebug() << "Error in initializing DB";
+        return 0;
+    }
     QFile styleFile(":/resources/style.qss");
     styleFile.open(QFile::ReadOnly);
     app.setStyleSheet(styleFile.readAll());

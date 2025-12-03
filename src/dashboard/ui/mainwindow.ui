@@ -175,6 +175,9 @@
                       <height>26</height>
                      </size>
                     </property>
+                    <property name="checkable">
+                     <bool>true</bool>
+                    </property>
                    </widget>
                   </item>
                   <item>
@@ -236,6 +239,9 @@
                       <height>26</height>
                      </size>
                     </property>
+                    <property name="checkable">
+                     <bool>true</bool>
+                    </property>
                    </widget>
                   </item>
                   <item>
@@ -274,7 +280,7 @@
               </widget>
              </item>
              <item>
-              <widget class="QWidget" name="MainContentWidget" native="true">
+              <widget class="QStackedWidget" name="mainContentStackedWidget">
                <property name="sizePolicy">
                 <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
                  <horstretch>0</horstretch>
@@ -284,6 +290,9 @@
                <property name="toolTip">
                 <string/>
                </property>
+               <widget class="RepositoriesPage" name="MainContentStackedWidget1" native="true"/>
+               <widget class="QWidget" name="MainContentStackedWidget3"/>
+               <widget class="QWidget" name="MainContentStackedWidget2"/>
               </widget>
              </item>
             </layout>
@@ -309,6 +318,14 @@
   </widget>
   <widget class="QStatusBar" name="statusbar"/>
  </widget>
+ <customwidgets>
+  <customwidget>
+   <class>RepositoriesPage</class>
+   <extends>QWidget</extends>
+   <header>repositoriespage.h</header>
+   <container>1</container>
+  </customwidget>
+ </customwidgets>
  <resources>
   <include location="../../../resources.qrc"/>
  </resources>
